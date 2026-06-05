@@ -1,0 +1,1202 @@
+{
+  "staff": [
+    {
+      "name": "Dr. Amal Perera",
+      "email": "admin@pms.local",
+      "role": "admin",
+      "phone": "0771234501",
+      "nic": "198512345678",
+      "specialization": null
+    },
+    {
+      "name": "Dr. Nimal Fernando",
+      "email": "doctor@pms.local",
+      "role": "doctor",
+      "phone": "0771234502",
+      "nic": "197812345679",
+      "specialization": "Cardiologist"
+    },
+    {
+      "name": "Sanduni Silva",
+      "email": "receptionist@pms.local",
+      "role": "receptionist",
+      "phone": "0771234503",
+      "nic": "199012345670",
+      "specialization": null
+    },
+    {
+      "name": "Kamal Jayasinghe",
+      "email": "nurse@pms.local",
+      "role": "nurse",
+      "phone": "0771234504",
+      "nic": "199512345671",
+      "specialization": null
+    },
+    {
+      "name": "Priya Wickramasinghe",
+      "email": "cashier@pms.local",
+      "role": "cashier",
+      "phone": "0771234505",
+      "nic": "199312345672",
+      "specialization": null
+    },
+    {
+      "name": "Ruwan Bandara",
+      "email": "labtech@pms.local",
+      "role": "labtech",
+      "phone": "0771234506",
+      "nic": "199112345673",
+      "specialization": null
+    },
+    {
+      "name": "Dr. Chamari Dias",
+      "email": "doctor2@pms.local",
+      "role": "doctor",
+      "phone": "0771234507",
+      "nic": "198012345674",
+      "specialization": "Neurologist"
+    },
+    {
+      "name": "Dr. Tharindu Ratna",
+      "email": "doctor3@pms.local",
+      "role": "doctor",
+      "phone": "0771234508",
+      "nic": "197512345675",
+      "specialization": "Pediatrician"
+    }
+  ],
+  "patients": [
+    {
+      "name": "Saman Kumara",
+      "email": "saman@gmail.com",
+      "phone": "0712345601",
+      "nic": "198901234561",
+      "patientId": "MMC-2025-0001",
+      "dateOfBirth": "1989-04-15",
+      "age": 36,
+      "gender": "male",
+      "bloodGroup": "A+",
+      "address": "12 Galle Road, Colombo 03",
+      "allergies": [
+        "Penicillin"
+      ],
+      "chronicConditions": [
+        "Hypertension"
+      ]
+    },
+    {
+      "name": "Malani Perera",
+      "email": "malani@gmail.com",
+      "phone": "0712345602",
+      "nic": "199302345562",
+      "patientId": "MMC-2025-0002",
+      "dateOfBirth": "1993-08-22",
+      "age": 32,
+      "gender": "female",
+      "bloodGroup": "B+",
+      "address": "45 Kandy Road, Peradeniya",
+      "allergies": [],
+      "chronicConditions": [
+        "Diabetes"
+      ]
+    },
+    {
+      "name": "Niroshan Rajapaksa",
+      "email": "niroshan@gmail.com",
+      "phone": "0712345603",
+      "nic": "197803456563",
+      "patientId": "MMC-2025-0003",
+      "dateOfBirth": "1978-11-30",
+      "age": 47,
+      "gender": "male",
+      "bloodGroup": "O+",
+      "address": "78 Negombo Road, Wattala",
+      "allergies": [
+        "Peanuts",
+        "Dust"
+      ],
+      "chronicConditions": [
+        "Asthma",
+        "Hypertension"
+      ]
+    },
+    {
+      "name": "Dilini Wijeratne",
+      "email": "dilini@gmail.com",
+      "phone": "0712345604",
+      "nic": "200104567564",
+      "patientId": "MMC-2025-0004",
+      "dateOfBirth": "2001-02-10",
+      "age": 24,
+      "gender": "female",
+      "bloodGroup": "AB+",
+      "address": "23 Temple Road, Nugegoda",
+      "allergies": [],
+      "chronicConditions": []
+    },
+    {
+      "name": "Chaminda Senanayake",
+      "email": "chaminda@gmail.com",
+      "phone": "0712345605",
+      "nic": "198505678565",
+      "patientId": "MMC-2025-0005",
+      "dateOfBirth": "1985-07-19",
+      "age": 40,
+      "gender": "male",
+      "bloodGroup": "A-",
+      "address": "56 Marine Drive, Dehiwala",
+      "allergies": [
+        "Pollen"
+      ],
+      "chronicConditions": []
+    },
+    {
+      "name": "Hashini Fernando",
+      "email": "hashini@gmail.com",
+      "phone": "0712345606",
+      "nic": "199706789566",
+      "patientId": "MMC-2025-0006",
+      "dateOfBirth": "1997-12-05",
+      "age": 28,
+      "gender": "female",
+      "bloodGroup": "O-",
+      "address": "90 High Level Road, Maharagama",
+      "allergies": [],
+      "chronicConditions": [
+        "Diabetes"
+      ]
+    },
+    {
+      "name": "Prasad Gunawardana",
+      "email": "prasad@gmail.com",
+      "phone": "0712345607",
+      "nic": "197207890567",
+      "patientId": "MMC-2025-0007",
+      "dateOfBirth": "1972-03-25",
+      "age": 53,
+      "gender": "male",
+      "bloodGroup": "B-",
+      "address": "34 Duplication Road, Bambalapitiya",
+      "allergies": [
+        "Penicillin"
+      ],
+      "chronicConditions": [
+        "Hypertension",
+        "Diabetes"
+      ]
+    },
+    {
+      "name": "Thilini Amarasinghe",
+      "email": "thilini@gmail.com",
+      "phone": "0712345608",
+      "nic": "200208901568",
+      "patientId": "MMC-2025-0008",
+      "dateOfBirth": "2002-06-14",
+      "age": 23,
+      "gender": "female",
+      "bloodGroup": "A+",
+      "address": "67 Nawala Road, Rajagiriya",
+      "allergies": [],
+      "chronicConditions": []
+    },
+    {
+      "name": "Janaka Liyanage",
+      "email": "janaka@gmail.com",
+      "phone": "0712345609",
+      "nic": "198809012569",
+      "patientId": "MMC-2025-0009",
+      "dateOfBirth": "1988-09-08",
+      "age": 37,
+      "gender": "male",
+      "bloodGroup": "O+",
+      "address": "11 Baseline Road, Borella",
+      "allergies": [
+        "Dust"
+      ],
+      "chronicConditions": [
+        "Asthma"
+      ]
+    },
+    {
+      "name": "Kavindi Madushani",
+      "email": "kavindi@gmail.com",
+      "phone": "0712345610",
+      "nic": "199509123560",
+      "patientId": "MMC-2025-0010",
+      "dateOfBirth": "1995-01-28",
+      "age": 30,
+      "gender": "female",
+      "bloodGroup": "AB-",
+      "address": "89 Station Road, Kaduwela",
+      "allergies": [],
+      "chronicConditions": []
+    }
+  ],
+  "inventory": [
+    {
+      "itemId": "ITM-0001",
+      "name": "Paracetamol 500mg",
+      "category": "Medicine",
+      "type": "tablet",
+      "manufacturer": "CIC Pharma",
+      "batchNumber": "CIC2025A",
+      "stockQuantity": 500,
+      "reorderLevel": 50,
+      "unitPrice": 2.5,
+      "unit": "pcs",
+      "expiryDate": "2027-06-30"
+    },
+    {
+      "itemId": "ITM-0002",
+      "name": "Amoxicillin 250mg",
+      "category": "Medicine",
+      "type": "capsule",
+      "manufacturer": "Hemas Pharma",
+      "batchNumber": "HEM2025B",
+      "stockQuantity": 300,
+      "reorderLevel": 30,
+      "unitPrice": 8.75,
+      "unit": "pcs",
+      "expiryDate": "2027-03-31"
+    },
+    {
+      "itemId": "ITM-0003",
+      "name": "IV Drip Set",
+      "category": "Consumable",
+      "type": "kit",
+      "manufacturer": "Mediline",
+      "batchNumber": "MED2025C",
+      "stockQuantity": 150,
+      "reorderLevel": 20,
+      "unitPrice": 125,
+      "unit": "pcs",
+      "expiryDate": "2028-12-31"
+    },
+    {
+      "itemId": "ITM-0004",
+      "name": "Digital Thermometer",
+      "category": "Equipment",
+      "type": "device",
+      "manufacturer": "Omron",
+      "batchNumber": "OMR2025D",
+      "stockQuantity": 25,
+      "reorderLevel": 5,
+      "unitPrice": 1500,
+      "unit": "pcs",
+      "expiryDate": null
+    },
+    {
+      "itemId": "ITM-0005",
+      "name": "Surgical Gloves (L)",
+      "category": "Consumable",
+      "type": "kit",
+      "manufacturer": "Ansell",
+      "batchNumber": "ANS2025E",
+      "stockQuantity": 800,
+      "reorderLevel": 100,
+      "unitPrice": 45,
+      "unit": "box",
+      "expiryDate": "2028-06-30"
+    },
+    {
+      "itemId": "ITM-0006",
+      "name": "Blood Pressure Monitor",
+      "category": "Equipment",
+      "type": "device",
+      "manufacturer": "Omron",
+      "batchNumber": "OMR2025F",
+      "stockQuantity": 10,
+      "reorderLevel": 3,
+      "unitPrice": 8500,
+      "unit": "pcs",
+      "expiryDate": null
+    },
+    {
+      "itemId": "ITM-0007",
+      "name": "Metformin 500mg",
+      "category": "Medicine",
+      "type": "tablet",
+      "manufacturer": "CIC Pharma",
+      "batchNumber": "CIC2025G",
+      "stockQuantity": 400,
+      "reorderLevel": 40,
+      "unitPrice": 5,
+      "unit": "pcs",
+      "expiryDate": "2026-12-31"
+    },
+    {
+      "itemId": "ITM-0008",
+      "name": "Syringe 5ml",
+      "category": "Consumable",
+      "type": "injection",
+      "manufacturer": "Dispovan",
+      "batchNumber": "DIS2025H",
+      "stockQuantity": 600,
+      "reorderLevel": 80,
+      "unitPrice": 15,
+      "unit": "pcs",
+      "expiryDate": "2028-09-30"
+    },
+    {
+      "itemId": "ITM-0009",
+      "name": "Pulse Oximeter",
+      "category": "Equipment",
+      "type": "device",
+      "manufacturer": "Choicemmed",
+      "batchNumber": "CHO2025I",
+      "stockQuantity": 15,
+      "reorderLevel": 4,
+      "unitPrice": 3200,
+      "unit": "pcs",
+      "expiryDate": null
+    },
+    {
+      "itemId": "ITM-0010",
+      "name": "Ibuprofen 400mg",
+      "category": "Medicine",
+      "type": "tablet",
+      "manufacturer": "Hemas Pharma",
+      "batchNumber": "HEM2025J",
+      "stockQuantity": 350,
+      "reorderLevel": 35,
+      "unitPrice": 6.5,
+      "unit": "pcs",
+      "expiryDate": "2027-08-31"
+    }
+  ],
+  "appointments": [
+    {
+      "patientIdx": 0,
+      "doctorIdx": 1,
+      "date": "2026-05-20T09:00:00Z",
+      "timeSlot": "09:00 AM",
+      "type": "OPD",
+      "status": "completed",
+      "reason": "Chest pain and shortness of breath",
+      "bookedBy": "receptionist",
+      "paymentStatus": "paid"
+    },
+    {
+      "patientIdx": 1,
+      "doctorIdx": 1,
+      "date": "2026-05-21T10:00:00Z",
+      "timeSlot": "10:00 AM",
+      "type": "Channelized",
+      "status": "completed",
+      "reason": "Follow-up for diabetes management",
+      "bookedBy": "patient",
+      "paymentStatus": "paid"
+    },
+    {
+      "patientIdx": 2,
+      "doctorIdx": 6,
+      "date": "2026-05-22T11:00:00Z",
+      "timeSlot": "11:00 AM",
+      "type": "OPD",
+      "status": "completed",
+      "reason": "Severe headaches and dizziness",
+      "bookedBy": "receptionist",
+      "paymentStatus": "paid"
+    },
+    {
+      "patientIdx": 3,
+      "doctorIdx": 7,
+      "date": "2026-05-23T09:00:00Z",
+      "timeSlot": "09:00 AM",
+      "type": "OPD",
+      "status": "completed",
+      "reason": "Routine checkup",
+      "bookedBy": "patient",
+      "paymentStatus": "paid"
+    },
+    {
+      "patientIdx": 4,
+      "doctorIdx": 1,
+      "date": "2026-05-24T14:00:00Z",
+      "timeSlot": "02:00 PM",
+      "type": "Channelized",
+      "status": "confirmed",
+      "reason": "Allergy consultation",
+      "bookedBy": "receptionist",
+      "paymentStatus": "pending"
+    },
+    {
+      "patientIdx": 5,
+      "doctorIdx": 6,
+      "date": "2026-05-25T10:00:00Z",
+      "timeSlot": "10:00 AM",
+      "type": "OPD",
+      "status": "booked",
+      "reason": "Diabetes review",
+      "bookedBy": "patient",
+      "paymentStatus": "pending"
+    },
+    {
+      "patientIdx": 6,
+      "doctorIdx": 1,
+      "date": "2026-05-19T09:00:00Z",
+      "timeSlot": "09:00 AM",
+      "type": "OPD",
+      "status": "completed",
+      "reason": "Hypertension and diabetes follow-up",
+      "bookedBy": "receptionist",
+      "paymentStatus": "paid"
+    },
+    {
+      "patientIdx": 7,
+      "doctorIdx": 7,
+      "date": "2026-05-18T11:00:00Z",
+      "timeSlot": "11:00 AM",
+      "type": "OPD",
+      "status": "cancelled",
+      "reason": "Annual physical examination",
+      "bookedBy": "patient",
+      "paymentStatus": "pending"
+    },
+    {
+      "patientIdx": 8,
+      "doctorIdx": 1,
+      "date": "2026-05-26T09:00:00Z",
+      "timeSlot": "09:00 AM",
+      "type": "Channelized",
+      "status": "booked",
+      "reason": "Asthma management",
+      "bookedBy": "patient",
+      "paymentStatus": "pending"
+    },
+    {
+      "patientIdx": 9,
+      "doctorIdx": 6,
+      "date": "2026-05-27T14:00:00Z",
+      "timeSlot": "02:00 PM",
+      "type": "OPD",
+      "status": "booked",
+      "reason": "General consultation",
+      "bookedBy": "receptionist",
+      "paymentStatus": "pending"
+    }
+  ],
+  "emr": [
+    {
+      "appointmentIdx": 0,
+      "chiefComplaint": "Patient presents with chest pain radiating to left arm and shortness of breath.",
+      "diagnosis": "Stable Angina",
+      "symptoms": [
+        "chest pain",
+        "shortness of breath",
+        "fatigue"
+      ],
+      "vitals": {
+        "bloodPressure": "145/90",
+        "pulse": 88,
+        "temperature": 37.1,
+        "weight": 78,
+        "height": 172,
+        "bmi": 26,
+        "oxygenSaturation": 97
+      },
+      "prescriptions": [
+        {
+          "medicine": "Aspirin",
+          "dosage": "75mg",
+          "frequency": "Once daily",
+          "duration": "Ongoing",
+          "instructions": "Take after breakfast"
+        },
+        {
+          "medicine": "Atenolol",
+          "dosage": "50mg",
+          "frequency": "Once daily",
+          "duration": "30 days",
+          "instructions": "Take in the morning"
+        }
+      ],
+      "doctorNotes": "Patient to undergo ECG and stress test. Advised lifestyle modification and low-sodium diet.",
+      "followUpDate": "2025-06-20"
+    },
+    {
+      "appointmentIdx": 1,
+      "chiefComplaint": "Patient reports elevated blood sugar levels and increased thirst.",
+      "diagnosis": "Type 2 Diabetes Mellitus - Uncontrolled",
+      "symptoms": [
+        "polyuria",
+        "polydipsia",
+        "fatigue",
+        "blurred vision"
+      ],
+      "vitals": {
+        "bloodPressure": "130/85",
+        "pulse": 76,
+        "temperature": 36.8,
+        "weight": 65,
+        "height": 162,
+        "bmi": 24,
+        "oxygenSaturation": 98
+      },
+      "prescriptions": [
+        {
+          "medicine": "Metformin",
+          "dosage": "1000mg",
+          "frequency": "Twice daily",
+          "duration": "90 days",
+          "instructions": "Take with meals"
+        },
+        {
+          "medicine": "Glibenclamide",
+          "dosage": "5mg",
+          "frequency": "Once daily",
+          "duration": "90 days",
+          "instructions": "Take before breakfast"
+        }
+      ],
+      "doctorNotes": "HbA1c elevated at 9.2%. Referred for dietary counselling. FBS and HbA1c to be repeated in 3 months.",
+      "followUpDate": "2025-08-21"
+    },
+    {
+      "appointmentIdx": 2,
+      "chiefComplaint": "Severe recurring headaches for 2 weeks with photophobia.",
+      "diagnosis": "Migraine without aura",
+      "symptoms": [
+        "severe headache",
+        "photophobia",
+        "nausea",
+        "dizziness"
+      ],
+      "vitals": {
+        "bloodPressure": "118/75",
+        "pulse": 72,
+        "temperature": 36.6,
+        "weight": 82,
+        "height": 175,
+        "bmi": 27,
+        "oxygenSaturation": 99
+      },
+      "prescriptions": [
+        {
+          "medicine": "Sumatriptan",
+          "dosage": "50mg",
+          "frequency": "As needed",
+          "duration": "PRN",
+          "instructions": "Take at onset of migraine"
+        },
+        {
+          "medicine": "Propranolol",
+          "dosage": "40mg",
+          "frequency": "Twice daily",
+          "duration": "60 days",
+          "instructions": "For prevention"
+        }
+      ],
+      "doctorNotes": "Patient advised to maintain headache diary. MRI brain recommended to rule out secondary causes.",
+      "followUpDate": "2025-06-22"
+    },
+    {
+      "appointmentIdx": 3,
+      "chiefComplaint": "Routine annual checkup, no specific complaints.",
+      "diagnosis": "Healthy - No acute illness",
+      "symptoms": [],
+      "vitals": {
+        "bloodPressure": "112/72",
+        "pulse": 68,
+        "temperature": 36.5,
+        "weight": 55,
+        "height": 160,
+        "bmi": 21,
+        "oxygenSaturation": 99
+      },
+      "prescriptions": [
+        {
+          "medicine": "Vitamin D3",
+          "dosage": "1000IU",
+          "frequency": "Once daily",
+          "duration": "90 days",
+          "instructions": "Take with food"
+        }
+      ],
+      "doctorNotes": "All vitals within normal limits. Blood tests ordered for routine screening.",
+      "followUpDate": "2026-05-23"
+    },
+    {
+      "appointmentIdx": 6,
+      "chiefComplaint": "Uncontrolled BP and blood sugar, complaints of fatigue and leg swelling.",
+      "diagnosis": "Hypertension with Type 2 Diabetes - Poor Control",
+      "symptoms": [
+        "fatigue",
+        "leg swelling",
+        "headache",
+        "increased thirst"
+      ],
+      "vitals": {
+        "bloodPressure": "165/100",
+        "pulse": 92,
+        "temperature": 37,
+        "weight": 90,
+        "height": 168,
+        "bmi": 32,
+        "oxygenSaturation": 96
+      },
+      "prescriptions": [
+        {
+          "medicine": "Amlodipine",
+          "dosage": "10mg",
+          "frequency": "Once daily",
+          "duration": "30 days",
+          "instructions": "Take in the morning"
+        },
+        {
+          "medicine": "Metformin",
+          "dosage": "500mg",
+          "frequency": "Twice daily",
+          "duration": "30 days",
+          "instructions": "Take with meals"
+        },
+        {
+          "medicine": "Furosemide",
+          "dosage": "40mg",
+          "frequency": "Once daily",
+          "duration": "14 days",
+          "instructions": "Take in the morning"
+        }
+      ],
+      "doctorNotes": "Patient counselled on diet and weight reduction. Renal function tests and lipid profile ordered urgently.",
+      "followUpDate": "2025-06-19"
+    }
+  ],
+  "labReports": [
+    {
+      "appointmentIdx": 0,
+      "testName": "ECG",
+      "testCategory": "Cardiology",
+      "status": "completed",
+      "results": [
+        {
+          "parameter": "Rhythm",
+          "value": "Sinus Tachycardia",
+          "unit": ""
+        },
+        {
+          "parameter": "PR Interval",
+          "value": "180",
+          "unit": "ms"
+        }
+      ],
+      "notes": "Mild ST depression in V4-V6. Recommend stress test."
+    },
+    {
+      "appointmentIdx": 1,
+      "testName": "Fasting Blood Sugar",
+      "testCategory": "Pathology",
+      "status": "completed",
+      "results": [
+        {
+          "parameter": "FBS",
+          "value": "210",
+          "unit": "mg/dL",
+          "normalRange": "70-100"
+        },
+        {
+          "parameter": "HbA1c",
+          "value": "9.2",
+          "unit": "%",
+          "normalRange": "<7.0"
+        }
+      ],
+      "notes": "Poorly controlled diabetes. Dietary modification advised."
+    },
+    {
+      "appointmentIdx": 2,
+      "testName": "MRI Brain",
+      "testCategory": "Radiology",
+      "status": "pending",
+      "results": [],
+      "notes": "Scheduled for next week."
+    },
+    {
+      "appointmentIdx": 3,
+      "testName": "Complete Blood Count",
+      "testCategory": "Pathology",
+      "status": "completed",
+      "results": [
+        {
+          "parameter": "WBC",
+          "value": "7200",
+          "unit": "cells/mcL",
+          "normalRange": "4000-11000"
+        },
+        {
+          "parameter": "RBC",
+          "value": "4.8",
+          "unit": "million/mcL"
+        },
+        {
+          "parameter": "Hemoglobin",
+          "value": "13.5",
+          "unit": "g/dL"
+        },
+        {
+          "parameter": "Platelets",
+          "value": "250000",
+          "unit": "/mcL"
+        }
+      ],
+      "notes": "All values within normal limits."
+    },
+    {
+      "appointmentIdx": 6,
+      "testName": "Renal Function Test",
+      "testCategory": "Pathology",
+      "status": "completed",
+      "results": [
+        {
+          "parameter": "Creatinine",
+          "value": "1.4",
+          "unit": "mg/dL",
+          "normalRange": "0.7-1.2"
+        },
+        {
+          "parameter": "BUN",
+          "value": "24",
+          "unit": "mg/dL"
+        },
+        {
+          "parameter": "eGFR",
+          "value": "58",
+          "unit": "mL/min"
+        }
+      ],
+      "notes": "Mild renal impairment. Monitor closely."
+    },
+    {
+      "appointmentIdx": 6,
+      "testName": "Lipid Profile",
+      "testCategory": "Pathology",
+      "status": "completed",
+      "results": [
+        {
+          "parameter": "Total Cholesterol",
+          "value": "245",
+          "unit": "mg/dL",
+          "normalRange": "<200"
+        },
+        {
+          "parameter": "LDL",
+          "value": "165",
+          "unit": "mg/dL"
+        },
+        {
+          "parameter": "HDL",
+          "value": "38",
+          "unit": "mg/dL"
+        },
+        {
+          "parameter": "Triglycerides",
+          "value": "210",
+          "unit": "mg/dL"
+        }
+      ],
+      "notes": "Dyslipidaemia. Statin therapy recommended."
+    }
+  ],
+  "feedback": [
+    {
+      "patientIdx": 0,
+      "appointmentIdx": 0,
+      "doctorIdx": 1,
+      "overallRating": 5,
+      "doctorRating": 5,
+      "serviceRating": 4,
+      "waitTimeRating": 4,
+      "comment": "Excellent consultation. Dr. Fernando was very thorough and explained everything clearly.",
+      "isPublished": true
+    },
+    {
+      "patientIdx": 1,
+      "appointmentIdx": 1,
+      "doctorIdx": 1,
+      "overallRating": 4,
+      "doctorRating": 5,
+      "serviceRating": 4,
+      "waitTimeRating": 3,
+      "comment": "Very helpful doctor. Waiting time was a bit long but overall good experience.",
+      "isPublished": true
+    },
+    {
+      "patientIdx": 2,
+      "appointmentIdx": 2,
+      "doctorIdx": 6,
+      "overallRating": 5,
+      "doctorRating": 5,
+      "serviceRating": 5,
+      "waitTimeRating": 5,
+      "comment": "Dr. Dias was outstanding. Diagnosed my condition quickly and treatment is working well.",
+      "isPublished": true
+    },
+    {
+      "patientIdx": 6,
+      "appointmentIdx": 6,
+      "doctorIdx": 1,
+      "overallRating": 4,
+      "doctorRating": 4,
+      "serviceRating": 3,
+      "waitTimeRating": 3,
+      "comment": "Good doctor. Facility could be improved but medical care was great.",
+      "isPublished": false
+    }
+  ],
+  "labTests": [
+    {
+      "patientIdx": 0,
+      "doctorIdx": 1,
+      "aptIdx": 0,
+      "testType": "Blood CBC",
+      "priority": "routine",
+      "status": "completed",
+      "clinicalNotes": "Full blood workup for patient with suspected angina.",
+      "results": "[{\"name\":\"WBC\",\"value\":\"8200\",\"unit\":\"cells/mcL\"},{\"name\":\"RBC\",\"value\":\"4.5\",\"unit\":\"million/mcL\"},{\"name\":\"Hemoglobin\",\"value\":\"13.8\",\"unit\":\"g/dL\"},{\"name\":\"Platelets\",\"value\":\"230000\",\"unit\":\"/mcL\"}]",
+      "resultSummary": "All haematological parameters within normal limits.",
+      "isAbnormal": false
+    },
+    {
+      "patientIdx": 0,
+      "doctorIdx": 1,
+      "aptIdx": 0,
+      "testType": "Lipid Panel",
+      "priority": "urgent",
+      "status": "completed",
+      "clinicalNotes": "Assess cardiovascular risk in patient with angina.",
+      "results": "[{\"name\":\"Total Cholesterol\",\"value\":\"238\",\"unit\":\"mg/dL\"},{\"name\":\"LDL\",\"value\":\"158\",\"unit\":\"mg/dL\"},{\"name\":\"HDL\",\"value\":\"42\",\"unit\":\"mg/dL\"},{\"name\":\"Triglycerides\",\"value\":\"195\",\"unit\":\"mg/dL\"}]",
+      "resultSummary": "Borderline high cholesterol. Statin therapy recommended.",
+      "isAbnormal": true
+    },
+    {
+      "patientIdx": 1,
+      "doctorIdx": 1,
+      "aptIdx": 1,
+      "testType": "Blood Sugar (Fasting)",
+      "priority": "routine",
+      "status": "completed",
+      "clinicalNotes": "Diabetic follow-up. Monitor fasting glucose and HbA1c.",
+      "results": "[{\"name\":\"FBS\",\"value\":\"210\",\"unit\":\"mg/dL\"},{\"name\":\"HbA1c\",\"value\":\"9.2\",\"unit\":\"%\"}]",
+      "resultSummary": "Poorly controlled diabetes. Increase Metformin dose.",
+      "isAbnormal": true
+    },
+    {
+      "patientIdx": 1,
+      "doctorIdx": 1,
+      "aptIdx": 1,
+      "testType": "Kidney Function Test",
+      "priority": "routine",
+      "status": "in-progress",
+      "clinicalNotes": "Monitor renal function in diabetic patient.",
+      "results": null,
+      "resultSummary": null,
+      "isAbnormal": false
+    },
+    {
+      "patientIdx": 2,
+      "doctorIdx": 6,
+      "aptIdx": 2,
+      "testType": "Chest X-Ray",
+      "priority": "routine",
+      "status": "completed",
+      "clinicalNotes": "Rule out pulmonary causes of headache.",
+      "results": "[{\"name\":\"Findings\",\"value\":\"No acute cardiopulmonary abnormality\",\"unit\":\"\"}]",
+      "resultSummary": "Normal chest X-ray.",
+      "isAbnormal": false
+    },
+    {
+      "patientIdx": 3,
+      "doctorIdx": 7,
+      "aptIdx": 3,
+      "testType": "Blood CBC",
+      "priority": "routine",
+      "status": "completed",
+      "clinicalNotes": "Routine annual health screening.",
+      "results": "[{\"name\":\"WBC\",\"value\":\"7200\",\"unit\":\"cells/mcL\"},{\"name\":\"Hemoglobin\",\"value\":\"13.5\",\"unit\":\"g/dL\"},{\"name\":\"Platelets\",\"value\":\"250000\",\"unit\":\"/mcL\"}]",
+      "resultSummary": "All values within normal limits.",
+      "isAbnormal": false
+    },
+    {
+      "patientIdx": 4,
+      "doctorIdx": 1,
+      "aptIdx": 4,
+      "testType": "Urine Full Report",
+      "priority": "routine",
+      "status": "pending",
+      "clinicalNotes": "Patient with allergy history. Routine urinalysis.",
+      "results": null,
+      "resultSummary": null,
+      "isAbnormal": false
+    },
+    {
+      "patientIdx": 5,
+      "doctorIdx": 6,
+      "aptIdx": 5,
+      "testType": "Thyroid (TSH)",
+      "priority": "routine",
+      "status": "pending",
+      "clinicalNotes": "Rule out thyroid dysfunction in diabetic patient.",
+      "results": null,
+      "resultSummary": null,
+      "isAbnormal": false
+    },
+    {
+      "patientIdx": 6,
+      "doctorIdx": 1,
+      "aptIdx": 6,
+      "testType": "Kidney Function Test",
+      "priority": "urgent",
+      "status": "completed",
+      "clinicalNotes": "Urgent renal check — hypertensive diabetic with leg swelling.",
+      "results": "[{\"name\":\"Creatinine\",\"value\":\"1.4\",\"unit\":\"mg/dL\"},{\"name\":\"BUN\",\"value\":\"24\",\"unit\":\"mg/dL\"},{\"name\":\"eGFR\",\"value\":\"58\",\"unit\":\"mL/min\"}]",
+      "resultSummary": "Mild renal impairment (CKD Stage 2). Close monitoring.",
+      "isAbnormal": true
+    },
+    {
+      "patientIdx": 6,
+      "doctorIdx": 1,
+      "aptIdx": 6,
+      "testType": "Lipid Panel",
+      "priority": "urgent",
+      "status": "completed",
+      "clinicalNotes": "Urgently assess cardiovascular risk.",
+      "results": "[{\"name\":\"Total Cholesterol\",\"value\":\"245\",\"unit\":\"mg/dL\"},{\"name\":\"LDL\",\"value\":\"165\",\"unit\":\"mg/dL\"},{\"name\":\"HDL\",\"value\":\"38\",\"unit\":\"mg/dL\"},{\"name\":\"Triglycerides\",\"value\":\"210\",\"unit\":\"mg/dL\"}]",
+      "resultSummary": "Dyslipidaemia. Statin therapy urgently recommended.",
+      "isAbnormal": true
+    },
+    {
+      "patientIdx": 8,
+      "doctorIdx": 1,
+      "aptIdx": 8,
+      "testType": "Urine Full Report",
+      "priority": "stat",
+      "status": "in-progress",
+      "clinicalNotes": "Asthma patient with possible urinary symptoms.",
+      "results": null,
+      "resultSummary": null,
+      "isAbnormal": false
+    },
+    {
+      "patientIdx": 9,
+      "doctorIdx": 6,
+      "aptIdx": 9,
+      "testType": "Blood CBC",
+      "priority": "routine",
+      "status": "pending",
+      "clinicalNotes": "General consultation baseline blood work.",
+      "results": null,
+      "resultSummary": null,
+      "isAbnormal": false
+    }
+  ],
+  "vitals": [
+    {
+      "patientIdx": 0,
+      "aptIdx": 0,
+      "nurseIdx": 3,
+      "temperature": {
+        "value": 37.1,
+        "unit": "°C"
+      },
+      "bloodPressure": {
+        "systolic": 145,
+        "diastolic": 90
+      },
+      "pulse": 88,
+      "respiratoryRate": 18,
+      "oxygenSaturation": 97,
+      "weight": {
+        "value": 78,
+        "unit": "kg"
+      },
+      "height": {
+        "value": 172,
+        "unit": "cm"
+      },
+      "notes": "Patient anxious. BP re-checked after 10 min — same reading.",
+      "recordedAt": "2026-05-20T08:45:00Z"
+    },
+    {
+      "patientIdx": 1,
+      "aptIdx": 1,
+      "nurseIdx": 3,
+      "temperature": {
+        "value": 36.8,
+        "unit": "°C"
+      },
+      "bloodPressure": {
+        "systolic": 130,
+        "diastolic": 85
+      },
+      "pulse": 76,
+      "respiratoryRate": 16,
+      "oxygenSaturation": 98,
+      "weight": {
+        "value": 65,
+        "unit": "kg"
+      },
+      "height": {
+        "value": 162,
+        "unit": "cm"
+      },
+      "notes": "Patient cooperative. Mild peripheral oedema noted.",
+      "recordedAt": "2026-05-21T09:45:00Z"
+    },
+    {
+      "patientIdx": 2,
+      "aptIdx": 2,
+      "nurseIdx": 3,
+      "temperature": {
+        "value": 36.6,
+        "unit": "°C"
+      },
+      "bloodPressure": {
+        "systolic": 118,
+        "diastolic": 75
+      },
+      "pulse": 72,
+      "respiratoryRate": 15,
+      "oxygenSaturation": 99,
+      "weight": {
+        "value": 82,
+        "unit": "kg"
+      },
+      "height": {
+        "value": 175,
+        "unit": "cm"
+      },
+      "notes": "Patient reports light sensitivity. Lights dimmed in room.",
+      "recordedAt": "2026-05-22T10:45:00Z"
+    },
+    {
+      "patientIdx": 3,
+      "aptIdx": 3,
+      "nurseIdx": 3,
+      "temperature": {
+        "value": 36.5,
+        "unit": "°C"
+      },
+      "bloodPressure": {
+        "systolic": 112,
+        "diastolic": 72
+      },
+      "pulse": 68,
+      "respiratoryRate": 14,
+      "oxygenSaturation": 99,
+      "weight": {
+        "value": 55,
+        "unit": "kg"
+      },
+      "height": {
+        "value": 160,
+        "unit": "cm"
+      },
+      "notes": "Healthy young adult. All vitals normal.",
+      "recordedAt": "2026-05-23T08:45:00Z"
+    },
+    {
+      "patientIdx": 4,
+      "aptIdx": 4,
+      "nurseIdx": 3,
+      "temperature": {
+        "value": 36.9,
+        "unit": "°C"
+      },
+      "bloodPressure": {
+        "systolic": 122,
+        "diastolic": 78
+      },
+      "pulse": 80,
+      "respiratoryRate": 16,
+      "oxygenSaturation": 98.5,
+      "weight": {
+        "value": 74,
+        "unit": "kg"
+      },
+      "height": {
+        "value": 178,
+        "unit": "cm"
+      },
+      "notes": "Patient reports seasonal allergies, currently symptomatic.",
+      "recordedAt": "2026-05-24T13:45:00Z"
+    },
+    {
+      "patientIdx": 6,
+      "aptIdx": 6,
+      "nurseIdx": 3,
+      "temperature": {
+        "value": 37,
+        "unit": "°C"
+      },
+      "bloodPressure": {
+        "systolic": 165,
+        "diastolic": 100
+      },
+      "pulse": 92,
+      "respiratoryRate": 20,
+      "oxygenSaturation": 96,
+      "weight": {
+        "value": 90,
+        "unit": "kg"
+      },
+      "height": {
+        "value": 168,
+        "unit": "cm"
+      },
+      "notes": "BP critically elevated. Doctor informed immediately.",
+      "recordedAt": "2026-05-19T08:45:00Z"
+    },
+    {
+      "patientIdx": 0,
+      "aptIdx": null,
+      "nurseIdx": 3,
+      "temperature": {
+        "value": 36.8,
+        "unit": "°C"
+      },
+      "bloodPressure": {
+        "systolic": 138,
+        "diastolic": 86
+      },
+      "pulse": 84,
+      "respiratoryRate": 17,
+      "oxygenSaturation": 97.5,
+      "weight": {
+        "value": 78,
+        "unit": "kg"
+      },
+      "height": {
+        "value": 172,
+        "unit": "cm"
+      },
+      "notes": "Follow-up vitals check. Slight improvement in BP.",
+      "recordedAt": "2026-05-23T10:00:00Z"
+    },
+    {
+      "patientIdx": 1,
+      "aptIdx": null,
+      "nurseIdx": 3,
+      "temperature": {
+        "value": 36.7,
+        "unit": "°C"
+      },
+      "bloodPressure": {
+        "systolic": 125,
+        "diastolic": 82
+      },
+      "pulse": 74,
+      "respiratoryRate": 15,
+      "oxygenSaturation": 98,
+      "weight": {
+        "value": 65,
+        "unit": "kg"
+      },
+      "height": {
+        "value": 162,
+        "unit": "cm"
+      },
+      "notes": "Patient started new medication. Monitoring BP response.",
+      "recordedAt": "2026-05-24T09:00:00Z"
+    }
+  ]
+}

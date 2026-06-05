@@ -1,0 +1,3145 @@
+{
+  "users": [
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d001"
+      },
+      "name": "System Administrator",
+      "email": "admin@pms.com",
+      "role": "admin",
+      "phone": "0112345678",
+      "nic": "198234500012",
+      "isActive": true,
+      "isEmailVerified": true,
+      "createdAt": {
+        "$date": "2024-11-01T00:00:00.000Z"
+      },
+      "updatedAt": {
+        "$date": "2024-11-01T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d011"
+      },
+      "name": "Eranda Jayamaha",
+      "email": "198234500012@pmsadmin.com",
+      "role": "admin",
+      "phone": "0771234567",
+      "nic": "198234500012",
+      "isActive": true,
+      "isEmailVerified": true,
+      "createdAt": {
+        "$date": "2024-11-01T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d012"
+      },
+      "name": "Super Admin",
+      "email": "superadmin@pms.com",
+      "role": "admin",
+      "phone": "0119998877",
+      "nic": "197034500088",
+      "isActive": true,
+      "isEmailVerified": true,
+      "createdAt": {
+        "$date": "2024-11-01T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d002"
+      },
+      "name": "Dr. Chaminda Rajapaksha",
+      "email": "doctor@pms.com",
+      "role": "doctor",
+      "phone": "0712678901",
+      "nic": "197805601234",
+      "specialization": "General Practitioner",
+      "isActive": true,
+      "isEmailVerified": true,
+      "createdAt": {
+        "$date": "2024-11-01T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d008"
+      },
+      "name": "Dr. Priyanka Seneviratne",
+      "email": "198203107890@pmsdoctor.com",
+      "role": "doctor",
+      "phone": "0718901567",
+      "nic": "198203107890",
+      "specialization": "Cardiologist",
+      "isActive": true,
+      "isEmailVerified": true,
+      "createdAt": {
+        "$date": "2024-11-01T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d013"
+      },
+      "name": "Dr. Sarath Gunawardena",
+      "email": "197501204567@pmsdoctor.com",
+      "role": "doctor",
+      "phone": "0771239876",
+      "nic": "197501204567",
+      "specialization": "Pediatrician",
+      "isActive": true,
+      "isEmailVerified": true,
+      "createdAt": {
+        "$date": "2024-11-01T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d003"
+      },
+      "name": "Nuwan Tharanga Dissanayake",
+      "email": "patient@pms.com",
+      "role": "patient",
+      "phone": "0763412890",
+      "nic": "199104502345",
+      "dateOfBirth": {
+        "$date": "1991-02-14T00:00:00.000Z"
+      },
+      "gender": "male",
+      "address": "No. 17, Kandy Road, Kelaniya",
+      "bloodGroup": "A+",
+      "isActive": true,
+      "isEmailVerified": true,
+      "createdAt": {
+        "$date": "2024-12-10T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d014"
+      },
+      "name": "Kamani Jayawardena",
+      "email": "198605208901@pmspatient.com",
+      "role": "patient",
+      "phone": "0776543210",
+      "nic": "198605208901",
+      "dateOfBirth": {
+        "$date": "1986-03-08T00:00:00.000Z"
+      },
+      "gender": "female",
+      "address": "No. 55, Nawala Road, Rajagiriya",
+      "bloodGroup": "B+",
+      "isActive": true,
+      "isEmailVerified": true,
+      "createdAt": {
+        "$date": "2025-01-08T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d015"
+      },
+      "name": "Ranjith Prasad Kumara",
+      "email": "196812309012@pmspatient.com",
+      "role": "patient",
+      "phone": "0759876543",
+      "nic": "196812309012",
+      "dateOfBirth": {
+        "$date": "1968-04-23T00:00:00.000Z"
+      },
+      "gender": "male",
+      "address": "No. 102, Highlevel Road, Maharagama",
+      "bloodGroup": "O+",
+      "isActive": true,
+      "isEmailVerified": true,
+      "createdAt": {
+        "$date": "2025-01-15T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d004"
+      },
+      "name": "Iresha Madushani Perera",
+      "email": "reception@pms.com",
+      "role": "receptionist",
+      "phone": "0774512367",
+      "nic": "199509803456",
+      "isActive": true,
+      "isEmailVerified": true,
+      "createdAt": {
+        "$date": "2024-11-01T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d016"
+      },
+      "name": "Kanthi de Silva",
+      "email": "198801207890@pmsreceptionist.com",
+      "role": "receptionist",
+      "phone": "0771230987",
+      "nic": "198801207890",
+      "isActive": true,
+      "isEmailVerified": true,
+      "createdAt": {
+        "$date": "2024-11-01T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d017"
+      },
+      "name": "Malkanthi Perera",
+      "email": "199203405678@pmsreceptionist.com",
+      "role": "receptionist",
+      "phone": "0765544332",
+      "nic": "199203405678",
+      "isActive": true,
+      "isEmailVerified": true,
+      "createdAt": {
+        "$date": "2024-11-01T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d005"
+      },
+      "name": "Hasini Kumari Weerasinghe",
+      "email": "nurse@pms.com",
+      "role": "nurse",
+      "phone": "0755678234",
+      "nic": "199301204567",
+      "isActive": true,
+      "isEmailVerified": true,
+      "createdAt": {
+        "$date": "2024-11-01T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d018"
+      },
+      "name": "Nilanthi Perera",
+      "email": "198507801234@pmsnurse.com",
+      "role": "nurse",
+      "phone": "0711122334",
+      "nic": "198507801234",
+      "isActive": true,
+      "isEmailVerified": true,
+      "createdAt": {
+        "$date": "2024-11-01T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d019"
+      },
+      "name": "Sunethra Silva",
+      "email": "199004506789@pmsnurse.com",
+      "role": "nurse",
+      "phone": "0759988776",
+      "nic": "199004506789",
+      "isActive": true,
+      "isEmailVerified": true,
+      "createdAt": {
+        "$date": "2024-11-01T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d006"
+      },
+      "name": "Samantha Bandara Liyanage",
+      "email": "cashier@pms.com",
+      "role": "cashier",
+      "phone": "0716789345",
+      "nic": "198807305678",
+      "isActive": true,
+      "isEmailVerified": true,
+      "createdAt": {
+        "$date": "2024-11-01T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d020"
+      },
+      "name": "Ruwan Kumara",
+      "email": "199105601234@pmscashier.com",
+      "role": "cashier",
+      "phone": "0778899001",
+      "nic": "199105601234",
+      "isActive": true,
+      "isEmailVerified": true,
+      "createdAt": {
+        "$date": "2024-11-01T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d021"
+      },
+      "name": "Anusha Karunaratne",
+      "email": "198602304567@pmscashier.com",
+      "role": "cashier",
+      "phone": "0712233445",
+      "nic": "198602304567",
+      "isActive": true,
+      "isEmailVerified": true,
+      "createdAt": {
+        "$date": "2024-11-01T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d007"
+      },
+      "name": "Chamari Dilrukshi Fernando",
+      "email": "labtech@pms.com",
+      "role": "labtech",
+      "phone": "0727890456",
+      "nic": "199711206789",
+      "isActive": true,
+      "isEmailVerified": true,
+      "createdAt": {
+        "$date": "2024-11-01T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d022"
+      },
+      "name": "Tharindu Perera",
+      "email": "199406701234@pmslabtech.com",
+      "role": "labtech",
+      "phone": "0767788990",
+      "nic": "199406701234",
+      "isActive": true,
+      "isEmailVerified": true,
+      "createdAt": {
+        "$date": "2024-11-01T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d023"
+      },
+      "name": "Janaki Wickramasinghe",
+      "email": "198903405678@pmslabtech.com",
+      "role": "labtech",
+      "phone": "0713344556",
+      "nic": "198903405678",
+      "isActive": true,
+      "isEmailVerified": true,
+      "createdAt": {
+        "$date": "2024-11-01T00:00:00.000Z"
+      }
+    }
+  ],
+  "patients": [
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9e001"
+      },
+      "userId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d003"
+      },
+      "patientId": "MMC-2025-0001",
+      "name": "Nuwan Tharanga Dissanayake",
+      "email": "patient@pms.com",
+      "phone": "0763412890",
+      "nic": "199104502345",
+      "dateOfBirth": {
+        "$date": "1991-02-14T00:00:00.000Z"
+      },
+      "age": 34,
+      "gender": "male",
+      "bloodGroup": "A+",
+      "address": "No. 17, Kandy Road, Kelaniya",
+      "guardian": {
+        "name": "Priya Dissanayake",
+        "relationship": "Wife",
+        "phone": "0773456789"
+      },
+      "allergies": [
+        "Sulfonamides"
+      ],
+      "chronicConditions": [
+        "Hypertension"
+      ],
+      "isActive": true,
+      "registeredBy": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d004"
+      },
+      "createdAt": {
+        "$date": "2024-12-10T08:00:00.000Z"
+      },
+      "updatedAt": {
+        "$date": "2024-12-10T08:00:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9e002"
+      },
+      "userId": null,
+      "patientId": "MMC-2025-0002",
+      "name": "Kamani Ishara Jayawardena",
+      "email": "kamani.j@gmail.com",
+      "phone": "0776543210",
+      "nic": "198605208901",
+      "dateOfBirth": {
+        "$date": "1986-03-08T00:00:00.000Z"
+      },
+      "age": 39,
+      "gender": "female",
+      "bloodGroup": "B+",
+      "address": "No. 55, Nawala Road, Rajagiriya",
+      "guardian": {
+        "name": "Asanka Jayawardena",
+        "relationship": "Husband",
+        "phone": "0714321098"
+      },
+      "allergies": [
+        "Penicillin"
+      ],
+      "chronicConditions": [
+        "Diabetes Type 2",
+        "Hyperthyroidism"
+      ],
+      "isActive": true,
+      "registeredBy": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d004"
+      },
+      "createdAt": {
+        "$date": "2025-01-08T09:30:00.000Z"
+      },
+      "updatedAt": {
+        "$date": "2025-01-08T09:30:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9e003"
+      },
+      "userId": null,
+      "patientId": "MMC-2025-0003",
+      "name": "Ranjith Prasad Kumara",
+      "email": "ranjith.k@yahoo.com",
+      "phone": "0759876543",
+      "nic": "196812309012",
+      "dateOfBirth": {
+        "$date": "1968-04-23T00:00:00.000Z"
+      },
+      "age": 57,
+      "gender": "male",
+      "bloodGroup": "O+",
+      "address": "No. 102, Highlevel Road, Maharagama",
+      "guardian": {
+        "name": "Sriyani Kumara",
+        "relationship": "Wife",
+        "phone": "0769876543"
+      },
+      "allergies": [
+        "Aspirin",
+        "Ibuprofen"
+      ],
+      "chronicConditions": [
+        "COPD",
+        "Hypertension",
+        "Ischemic Heart Disease"
+      ],
+      "isActive": true,
+      "registeredBy": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d004"
+      },
+      "createdAt": {
+        "$date": "2025-01-15T10:00:00.000Z"
+      },
+      "updatedAt": {
+        "$date": "2025-01-15T10:00:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9e004"
+      },
+      "userId": null,
+      "patientId": "MMC-2025-0004",
+      "name": "Sanduni Kaveesha Ratnayake",
+      "email": "sanduni.r@gmail.com",
+      "phone": "0711234567",
+      "nic": "200213410123",
+      "dateOfBirth": {
+        "$date": "2002-05-16T00:00:00.000Z"
+      },
+      "age": 23,
+      "gender": "female",
+      "bloodGroup": "AB-",
+      "address": "No. 28, Bauddhaloka Mawatha, Colombo 07",
+      "guardian": {
+        "name": "Anura Ratnayake",
+        "relationship": "Father",
+        "phone": "0721234567"
+      },
+      "allergies": [],
+      "chronicConditions": [
+        "Bronchial Asthma"
+      ],
+      "isActive": true,
+      "registeredBy": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d004"
+      },
+      "createdAt": {
+        "$date": "2025-02-03T11:00:00.000Z"
+      },
+      "updatedAt": {
+        "$date": "2025-02-03T11:00:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9e005"
+      },
+      "userId": null,
+      "patientId": "MMC-2025-0005",
+      "name": "Mahesh Pradeep Senanayake",
+      "email": "mahesh.s@hotmail.com",
+      "phone": "0781234098",
+      "nic": "197906511234",
+      "dateOfBirth": {
+        "$date": "1979-03-12T00:00:00.000Z"
+      },
+      "age": 46,
+      "gender": "male",
+      "bloodGroup": "O-",
+      "address": "No. 64, Thimbirigasyaya Road, Colombo 05",
+      "guardian": {
+        "name": "Nilmini Senanayake",
+        "relationship": "Wife",
+        "phone": "0793214567"
+      },
+      "allergies": [
+        "Latex"
+      ],
+      "chronicConditions": [
+        "Type 2 Diabetes",
+        "Dyslipidemia"
+      ],
+      "isActive": true,
+      "registeredBy": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d004"
+      },
+      "createdAt": {
+        "$date": "2025-02-20T09:00:00.000Z"
+      },
+      "updatedAt": {
+        "$date": "2025-02-20T09:00:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9e006"
+      },
+      "userId": null,
+      "patientId": "MMC-2025-0006",
+      "name": "Dilhara Amaya Wickramasinghe",
+      "email": "dilhara.w@gmail.com",
+      "phone": "0742198765",
+      "nic": "199807612345",
+      "dateOfBirth": {
+        "$date": "1998-09-29T00:00:00.000Z"
+      },
+      "age": 26,
+      "gender": "female",
+      "bloodGroup": "A-",
+      "address": "No. 9, Peradeniya Road, Kandy",
+      "guardian": {
+        "name": "Sujeewa Wickramasinghe",
+        "relationship": "Mother",
+        "phone": "0752198765"
+      },
+      "allergies": [],
+      "chronicConditions": [],
+      "isActive": true,
+      "registeredBy": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d004"
+      },
+      "createdAt": {
+        "$date": "2025-03-10T10:30:00.000Z"
+      },
+      "updatedAt": {
+        "$date": "2025-03-10T10:30:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9e007"
+      },
+      "userId": null,
+      "patientId": "MMC-2025-0007",
+      "name": "Lalith Buddhika Gunasekara",
+      "email": "lalith.g@gmail.com",
+      "phone": "0764321987",
+      "nic": "197512213456",
+      "dateOfBirth": {
+        "$date": "1975-11-07T00:00:00.000Z"
+      },
+      "age": 49,
+      "gender": "male",
+      "bloodGroup": "B-",
+      "address": "No. 38, Station Road, Gampaha",
+      "guardian": {
+        "name": "Kumari Gunasekara",
+        "relationship": "Wife",
+        "phone": "0775321987"
+      },
+      "allergies": [
+        "Codeine"
+      ],
+      "chronicConditions": [
+        "Hypertension",
+        "Chronic Kidney Disease Stage 2"
+      ],
+      "isActive": true,
+      "registeredBy": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d004"
+      },
+      "createdAt": {
+        "$date": "2025-03-25T08:30:00.000Z"
+      },
+      "updatedAt": {
+        "$date": "2025-03-25T08:30:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9e008"
+      },
+      "userId": null,
+      "patientId": "MMC-2025-0008",
+      "name": "Tharushi Nethmi Abeysekara",
+      "email": "tharushi.a@gmail.com",
+      "phone": "0715678432",
+      "nic": "200309814567",
+      "dateOfBirth": {
+        "$date": "2003-04-22T00:00:00.000Z"
+      },
+      "age": 22,
+      "gender": "female",
+      "bloodGroup": "A+",
+      "address": "No. 71, Baseline Road, Borella, Colombo 08",
+      "guardian": {
+        "name": "Ajith Abeysekara",
+        "relationship": "Father",
+        "phone": "0725678432"
+      },
+      "allergies": [],
+      "chronicConditions": [],
+      "isActive": true,
+      "registeredBy": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d004"
+      },
+      "createdAt": {
+        "$date": "2025-04-02T11:30:00.000Z"
+      },
+      "updatedAt": {
+        "$date": "2025-04-02T11:30:00.000Z"
+      }
+    }
+  ],
+  "appointments": [
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9f001"
+      },
+      "appointmentId": "APT-2025-0001",
+      "patientId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9e001"
+      },
+      "doctorId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d002"
+      },
+      "date": {
+        "$date": "2025-03-05T08:30:00.000Z"
+      },
+      "timeSlot": "08:30 AM",
+      "type": "OPD",
+      "status": "completed",
+      "reason": "Routine blood pressure checkup and medication review",
+      "bookedBy": "patient",
+      "paymentStatus": "paid",
+      "notes": "BP reading 148/94. Medication dosage adjusted. Patient educated on dietary restrictions.",
+      "createdAt": {
+        "$date": "2025-03-03T14:00:00.000Z"
+      },
+      "updatedAt": {
+        "$date": "2025-03-05T09:15:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9f002"
+      },
+      "appointmentId": "APT-2025-0002",
+      "patientId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9e002"
+      },
+      "doctorId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d002"
+      },
+      "date": {
+        "$date": "2025-03-10T09:30:00.000Z"
+      },
+      "timeSlot": "09:30 AM",
+      "type": "Channelized",
+      "status": "completed",
+      "reason": "Diabetes and thyroid follow-up with HbA1c review",
+      "bookedBy": "receptionist",
+      "paymentStatus": "paid",
+      "notes": "HbA1c at 8.4%. TSH borderline. Referred to endocrinologist for thyroid management.",
+      "createdAt": {
+        "$date": "2025-03-07T10:00:00.000Z"
+      },
+      "updatedAt": {
+        "$date": "2025-03-10T10:30:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9f003"
+      },
+      "appointmentId": "APT-2025-0003",
+      "patientId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9e003"
+      },
+      "doctorId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d002"
+      },
+      "date": {
+        "$date": "2025-03-18T10:00:00.000Z"
+      },
+      "timeSlot": "10:00 AM",
+      "type": "OPD",
+      "status": "completed",
+      "reason": "Breathing difficulty and chest tightness review",
+      "bookedBy": "patient",
+      "paymentStatus": "paid",
+      "notes": "SpO2 at 94%. COPD exacerbation. Oral steroids prescribed. Chest X-ray ordered.",
+      "createdAt": {
+        "$date": "2025-03-16T08:30:00.000Z"
+      },
+      "updatedAt": {
+        "$date": "2025-03-18T11:00:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9f004"
+      },
+      "appointmentId": "APT-2025-0004",
+      "patientId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9e004"
+      },
+      "doctorId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d002"
+      },
+      "date": {
+        "$date": "2025-04-02T11:00:00.000Z"
+      },
+      "timeSlot": "11:00 AM",
+      "type": "OPD",
+      "status": "completed",
+      "reason": "Asthma attack — worsening at night and early morning",
+      "bookedBy": "patient",
+      "paymentStatus": "paid",
+      "notes": "Peak flow 62% predicted. Inhaler technique corrected. Step-up therapy initiated.",
+      "createdAt": {
+        "$date": "2025-04-01T07:45:00.000Z"
+      },
+      "updatedAt": {
+        "$date": "2025-04-02T12:00:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9f005"
+      },
+      "appointmentId": "APT-2025-0005",
+      "patientId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9e005"
+      },
+      "doctorId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d002"
+      },
+      "date": {
+        "$date": "2025-04-10T09:00:00.000Z"
+      },
+      "timeSlot": "09:00 AM",
+      "type": "Channelized",
+      "status": "completed",
+      "reason": "Diabetes management and lipid profile review",
+      "bookedBy": "receptionist",
+      "paymentStatus": "paid",
+      "notes": "Fasting glucose 162 mg/dL. LDL elevated. Statin added to regimen. Dietary counselling given.",
+      "createdAt": {
+        "$date": "2025-04-08T09:00:00.000Z"
+      },
+      "updatedAt": {
+        "$date": "2025-04-10T10:00:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9f006"
+      },
+      "appointmentId": "APT-2025-0006",
+      "patientId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9e006"
+      },
+      "doctorId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d002"
+      },
+      "date": {
+        "$date": "2025-04-22T08:00:00.000Z"
+      },
+      "timeSlot": "08:00 AM",
+      "type": "OPD",
+      "status": "completed",
+      "reason": "Fever, sore throat and body aches for 3 days",
+      "bookedBy": "patient",
+      "paymentStatus": "paid",
+      "notes": "Tonsillitis confirmed. Prescribed antibiotics. Review in 5 days if not improving.",
+      "createdAt": {
+        "$date": "2025-04-21T18:00:00.000Z"
+      },
+      "updatedAt": {
+        "$date": "2025-04-22T09:00:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9f007"
+      },
+      "appointmentId": "APT-2025-0007",
+      "patientId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9e007"
+      },
+      "doctorId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d008"
+      },
+      "date": {
+        "$date": "2025-05-06T10:30:00.000Z"
+      },
+      "timeSlot": "10:30 AM",
+      "type": "Channelized",
+      "status": "completed",
+      "reason": "Cardiology consultation — palpitations and leg swelling",
+      "bookedBy": "receptionist",
+      "paymentStatus": "paid",
+      "notes": "ECG showed sinus bradycardia. Echo ordered. Kidney function stable.",
+      "createdAt": {
+        "$date": "2025-05-02T11:00:00.000Z"
+      },
+      "updatedAt": {
+        "$date": "2025-05-06T11:30:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9f008"
+      },
+      "appointmentId": "APT-2025-0008",
+      "patientId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9e008"
+      },
+      "doctorId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d002"
+      },
+      "date": {
+        "$date": "2025-05-12T08:30:00.000Z"
+      },
+      "timeSlot": "08:30 AM",
+      "type": "OPD",
+      "status": "completed",
+      "reason": "Severe headache and nausea for 2 days",
+      "bookedBy": "patient",
+      "paymentStatus": "paid",
+      "notes": "Tension-type headache. Neurological exam normal. Analgesic prescribed. Advised rest and hydration.",
+      "createdAt": {
+        "$date": "2025-05-11T20:00:00.000Z"
+      },
+      "updatedAt": {
+        "$date": "2025-05-12T09:30:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9f009"
+      },
+      "appointmentId": "APT-2025-0009",
+      "patientId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9e001"
+      },
+      "doctorId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d002"
+      },
+      "date": {
+        "$date": "2025-05-20T09:00:00.000Z"
+      },
+      "timeSlot": "09:00 AM",
+      "type": "OPD",
+      "status": "confirmed",
+      "reason": "Follow-up blood pressure review after medication change",
+      "bookedBy": "patient",
+      "paymentStatus": "pending",
+      "notes": "",
+      "createdAt": {
+        "$date": "2025-05-14T10:00:00.000Z"
+      },
+      "updatedAt": {
+        "$date": "2025-05-14T10:00:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9f010"
+      },
+      "appointmentId": "APT-2025-0010",
+      "patientId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9e003"
+      },
+      "doctorId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d008"
+      },
+      "date": {
+        "$date": "2025-05-22T11:00:00.000Z"
+      },
+      "timeSlot": "11:00 AM",
+      "type": "Channelized",
+      "status": "booked",
+      "reason": "Cardiology review following COPD-related cardiac strain",
+      "bookedBy": "receptionist",
+      "paymentStatus": "pending",
+      "notes": "",
+      "createdAt": {
+        "$date": "2025-05-15T09:00:00.000Z"
+      },
+      "updatedAt": {
+        "$date": "2025-05-15T09:00:00.000Z"
+      }
+    }
+  ],
+  "medicalrecords": [
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9a001"
+      },
+      "recordId": "REC-2025-0001",
+      "patientId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9e001"
+      },
+      "appointmentId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9f001"
+      },
+      "doctorId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d002"
+      },
+      "visitDate": {
+        "$date": "2025-03-05T08:30:00.000Z"
+      },
+      "visitType": "OPD",
+      "chiefComplaint": "Persistent high blood pressure and occasional dizziness in the morning",
+      "diagnosis": "Essential Hypertension — Stage 2",
+      "symptoms": [
+        "Dizziness",
+        "Morning headache",
+        "Palpitations",
+        "Fatigue"
+      ],
+      "vitals": {
+        "bloodPressure": "148/94",
+        "pulse": 88,
+        "temperature": 36.9,
+        "weight": 78,
+        "height": 172,
+        "bmi": 26.4,
+        "oxygenSaturation": 97,
+        "recordedBy": {
+          "$oid": "64a1b2c3d4e5f6a7b8c9d005"
+        }
+      },
+      "prescriptions": [
+        {
+          "medicine": "Amlodipine",
+          "dosage": "10mg",
+          "frequency": "Once daily",
+          "duration": "60 days",
+          "instructions": "Take in the morning after breakfast"
+        },
+        {
+          "medicine": "Telmisartan",
+          "dosage": "40mg",
+          "frequency": "Once daily",
+          "duration": "60 days",
+          "instructions": "Take at bedtime"
+        },
+        {
+          "medicine": "Aspirin",
+          "dosage": "75mg",
+          "frequency": "Once daily",
+          "duration": "60 days",
+          "instructions": "Take after food to prevent gastric irritation"
+        }
+      ],
+      "labTestsRequested": [
+        {
+          "$oid": "64a1b2c3d4e5f6a7b8c9b001"
+        }
+      ],
+      "doctorNotes": "Patient has Stage 2 HTN. Dosage of Amlodipine increased from 5mg to 10mg. Advised DASH diet, reduced sodium intake (<2g/day), regular 30-minute walks. Follow-up in 2 months with renal function and lipid panel.",
+      "followUpDate": {
+        "$date": "2025-05-05T00:00:00.000Z"
+      },
+      "createdAt": {
+        "$date": "2025-03-05T09:15:00.000Z"
+      },
+      "updatedAt": {
+        "$date": "2025-03-05T09:15:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9a002"
+      },
+      "recordId": "REC-2025-0002",
+      "patientId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9e002"
+      },
+      "appointmentId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9f002"
+      },
+      "doctorId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d002"
+      },
+      "visitDate": {
+        "$date": "2025-03-10T09:30:00.000Z"
+      },
+      "visitType": "Channelized",
+      "chiefComplaint": "Uncontrolled blood sugar, excessive thirst, and weight gain",
+      "diagnosis": "Poorly Controlled Type 2 Diabetes Mellitus with Subclinical Hyperthyroidism",
+      "symptoms": [
+        "Polydipsia",
+        "Polyphagia",
+        "Blurred vision",
+        "Fatigue",
+        "Weight gain",
+        "Heat intolerance"
+      ],
+      "vitals": {
+        "bloodPressure": "126/82",
+        "pulse": 96,
+        "temperature": 37.2,
+        "weight": 71,
+        "height": 158,
+        "bmi": 28.5,
+        "oxygenSaturation": 98,
+        "recordedBy": {
+          "$oid": "64a1b2c3d4e5f6a7b8c9d005"
+        }
+      },
+      "prescriptions": [
+        {
+          "medicine": "Metformin",
+          "dosage": "1000mg",
+          "frequency": "Twice daily",
+          "duration": "90 days",
+          "instructions": "Take with main meals to reduce GI side effects"
+        },
+        {
+          "medicine": "Glimepiride",
+          "dosage": "2mg",
+          "frequency": "Once daily before breakfast",
+          "duration": "90 days",
+          "instructions": "Monitor for hypoglycemia. Take 30 minutes before breakfast."
+        }
+      ],
+      "labTestsRequested": [
+        {
+          "$oid": "64a1b2c3d4e5f6a7b8c9b002"
+        },
+        {
+          "$oid": "64a1b2c3d4e5f6a7b8c9b003"
+        }
+      ],
+      "doctorNotes": "HbA1c at 8.4% — glycemic control is poor. Metformin dose increased. TSH suppressed at 0.18 mIU/L — referred to endocrinology. Patient counselled on carbohydrate counting and blood glucose self-monitoring.",
+      "followUpDate": {
+        "$date": "2025-04-10T00:00:00.000Z"
+      },
+      "createdAt": {
+        "$date": "2025-03-10T10:30:00.000Z"
+      },
+      "updatedAt": {
+        "$date": "2025-03-10T10:30:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9a003"
+      },
+      "recordId": "REC-2025-0003",
+      "patientId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9e003"
+      },
+      "appointmentId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9f003"
+      },
+      "doctorId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d002"
+      },
+      "visitDate": {
+        "$date": "2025-03-18T10:00:00.000Z"
+      },
+      "visitType": "OPD",
+      "chiefComplaint": "Worsening shortness of breath and productive cough with yellow sputum for 5 days",
+      "diagnosis": "Acute Exacerbation of COPD (Moderate Severity)",
+      "symptoms": [
+        "Dyspnea",
+        "Productive cough",
+        "Wheezing",
+        "Chest tightness",
+        "Reduced exercise tolerance"
+      ],
+      "vitals": {
+        "bloodPressure": "152/96",
+        "pulse": 104,
+        "temperature": 37.8,
+        "weight": 65,
+        "height": 168,
+        "bmi": 23.0,
+        "oxygenSaturation": 94,
+        "recordedBy": {
+          "$oid": "64a1b2c3d4e5f6a7b8c9d005"
+        }
+      },
+      "prescriptions": [
+        {
+          "medicine": "Prednisolone",
+          "dosage": "30mg",
+          "frequency": "Once daily in the morning",
+          "duration": "5 days",
+          "instructions": "Take after a full meal. Taper dose as instructed."
+        },
+        {
+          "medicine": "Amoxicillin-Clavulanate",
+          "dosage": "625mg",
+          "frequency": "Twice daily",
+          "duration": "7 days",
+          "instructions": "Take with food. Complete full course."
+        },
+        {
+          "medicine": "Ipratropium Bromide Inhaler",
+          "dosage": "20mcg/puff",
+          "frequency": "4 puffs every 6 hours",
+          "duration": "14 days",
+          "instructions": "Shake well before use. Rinse mouth after each use."
+        }
+      ],
+      "labTestsRequested": [
+        {
+          "$oid": "64a1b2c3d4e5f6a7b8c9b004"
+        }
+      ],
+      "doctorNotes": "Moderate COPD exacerbation likely triggered by respiratory infection. SpO2 94% on room air. Chest X-ray ordered to rule out pneumonia. Sputum culture requested. If no improvement in 48 hours, hospital admission advised.",
+      "followUpDate": {
+        "$date": "2025-03-25T00:00:00.000Z"
+      },
+      "createdAt": {
+        "$date": "2025-03-18T11:00:00.000Z"
+      },
+      "updatedAt": {
+        "$date": "2025-03-18T11:00:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9a004"
+      },
+      "recordId": "REC-2025-0004",
+      "patientId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9e004"
+      },
+      "appointmentId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9f004"
+      },
+      "doctorId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d002"
+      },
+      "visitDate": {
+        "$date": "2025-04-02T11:00:00.000Z"
+      },
+      "visitType": "OPD",
+      "chiefComplaint": "Nocturnal and early morning wheezing, waking up 3–4 times per week",
+      "diagnosis": "Partially Controlled Bronchial Asthma",
+      "symptoms": [
+        "Nocturnal cough",
+        "Wheezing",
+        "Chest tightness",
+        "Exertional dyspnea"
+      ],
+      "vitals": {
+        "bloodPressure": "108/70",
+        "pulse": 92,
+        "temperature": 37.0,
+        "weight": 54,
+        "height": 163,
+        "bmi": 20.3,
+        "oxygenSaturation": 96,
+        "recordedBy": {
+          "$oid": "64a1b2c3d4e5f6a7b8c9d005"
+        }
+      },
+      "prescriptions": [
+        {
+          "medicine": "Salbutamol Inhaler",
+          "dosage": "100mcg/puff",
+          "frequency": "2 puffs as needed (rescue)",
+          "duration": "90 days",
+          "instructions": "Use when experiencing acute breathlessness. Max 8 puffs per day."
+        },
+        {
+          "medicine": "Budesonide/Formoterol Inhaler",
+          "dosage": "160/4.5mcg",
+          "frequency": "2 puffs twice daily",
+          "duration": "90 days",
+          "instructions": "Use morning and night. Rinse mouth after every use to prevent oral thrush."
+        },
+        {
+          "medicine": "Montelukast",
+          "dosage": "10mg",
+          "frequency": "Once daily at bedtime",
+          "duration": "90 days",
+          "instructions": "Take at night. Report any mood changes immediately."
+        }
+      ],
+      "labTestsRequested": [],
+      "doctorNotes": "Peak flow 62% predicted at visit. Patient using reliever inhaler >3 times/week — stepped up to medium-dose ICS/LABA. Inhaler technique reassessed and corrected. Written Asthma Action Plan provided. Advised to avoid known triggers: cold air, dust, smoke.",
+      "followUpDate": {
+        "$date": "2025-05-02T00:00:00.000Z"
+      },
+      "createdAt": {
+        "$date": "2025-04-02T12:00:00.000Z"
+      },
+      "updatedAt": {
+        "$date": "2025-04-02T12:00:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9a005"
+      },
+      "recordId": "REC-2025-0005",
+      "patientId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9e005"
+      },
+      "appointmentId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9f005"
+      },
+      "doctorId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d002"
+      },
+      "visitDate": {
+        "$date": "2025-04-10T09:00:00.000Z"
+      },
+      "visitType": "Channelized",
+      "chiefComplaint": "Elevated blood glucose readings at home and recent weight gain of 5kg in 3 months",
+      "diagnosis": "Type 2 Diabetes Mellitus with Dyslipidemia",
+      "symptoms": [
+        "Polyuria",
+        "Fatigue",
+        "Leg cramps",
+        "Blurred vision at night"
+      ],
+      "vitals": {
+        "bloodPressure": "134/88",
+        "pulse": 80,
+        "temperature": 36.8,
+        "weight": 89,
+        "height": 175,
+        "bmi": 29.1,
+        "oxygenSaturation": 98,
+        "recordedBy": {
+          "$oid": "64a1b2c3d4e5f6a7b8c9d005"
+        }
+      },
+      "prescriptions": [
+        {
+          "medicine": "Metformin",
+          "dosage": "500mg",
+          "frequency": "Three times daily",
+          "duration": "90 days",
+          "instructions": "Take with each main meal"
+        },
+        {
+          "medicine": "Atorvastatin",
+          "dosage": "20mg",
+          "frequency": "Once daily at night",
+          "duration": "90 days",
+          "instructions": "Take at bedtime. Avoid grapefruit juice."
+        }
+      ],
+      "labTestsRequested": [
+        {
+          "$oid": "64a1b2c3d4e5f6a7b8c9b005"
+        }
+      ],
+      "doctorNotes": "Fasting glucose 162 mg/dL, LDL 4.1 mmol/L. Atorvastatin initiated. Metformin dose optimised. Patient referred to dietician. Target HbA1c <7% by next visit. Foot examination — no neuropathy. Eyes to be screened at ophthalmology.",
+      "followUpDate": {
+        "$date": "2025-07-10T00:00:00.000Z"
+      },
+      "createdAt": {
+        "$date": "2025-04-10T10:00:00.000Z"
+      },
+      "updatedAt": {
+        "$date": "2025-04-10T10:00:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9a006"
+      },
+      "recordId": "REC-2025-0006",
+      "patientId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9e006"
+      },
+      "appointmentId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9f006"
+      },
+      "doctorId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d002"
+      },
+      "visitDate": {
+        "$date": "2025-04-22T08:00:00.000Z"
+      },
+      "visitType": "OPD",
+      "chiefComplaint": "Fever 38.5°C, sore throat, and difficulty swallowing for 3 days",
+      "diagnosis": "Acute Tonsillitis (Bacterial)",
+      "symptoms": [
+        "Fever",
+        "Sore throat",
+        "Odynophagia",
+        "Cervical lymphadenopathy",
+        "Malaise"
+      ],
+      "vitals": {
+        "bloodPressure": "112/74",
+        "pulse": 98,
+        "temperature": 38.5,
+        "weight": 57,
+        "height": 160,
+        "bmi": 22.3,
+        "oxygenSaturation": 99,
+        "recordedBy": {
+          "$oid": "64a1b2c3d4e5f6a7b8c9d005"
+        }
+      },
+      "prescriptions": [
+        {
+          "medicine": "Amoxicillin",
+          "dosage": "500mg",
+          "frequency": "Three times daily",
+          "duration": "10 days",
+          "instructions": "Take at regular intervals. Complete the full course even if feeling better."
+        },
+        {
+          "medicine": "Paracetamol",
+          "dosage": "500mg",
+          "frequency": "Every 6 hours when needed for fever/pain",
+          "duration": "5 days",
+          "instructions": "Do not exceed 4g per day. Take with water."
+        },
+        {
+          "medicine": "Betadine Gargle",
+          "dosage": "10ml",
+          "frequency": "Three times daily",
+          "duration": "7 days",
+          "instructions": "Dilute with equal water. Gargle for 30 seconds and spit. Do not swallow."
+        }
+      ],
+      "labTestsRequested": [],
+      "doctorNotes": "Tonsillar exudate present. Centor score 4 — antibiotic indicated. Throat swab not taken as empirical therapy started. Return if fever persists beyond 48 hours or symptoms worsen.",
+      "followUpDate": {
+        "$date": "2025-04-29T00:00:00.000Z"
+      },
+      "createdAt": {
+        "$date": "2025-04-22T09:00:00.000Z"
+      },
+      "updatedAt": {
+        "$date": "2025-04-22T09:00:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9a007"
+      },
+      "recordId": "REC-2025-0007",
+      "patientId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9e007"
+      },
+      "appointmentId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9f007"
+      },
+      "doctorId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d008"
+      },
+      "visitDate": {
+        "$date": "2025-05-06T10:30:00.000Z"
+      },
+      "visitType": "Channelized",
+      "chiefComplaint": "Palpitations, bilateral ankle swelling and reduced urine output for 2 weeks",
+      "diagnosis": "Sinus Bradycardia with Bilateral Pedal Oedema; Chronic Kidney Disease Stage 2",
+      "symptoms": [
+        "Palpitations",
+        "Bilateral ankle oedema",
+        "Reduced urine output",
+        "Exertional dyspnea",
+        "Fatigue"
+      ],
+      "vitals": {
+        "bloodPressure": "158/100",
+        "pulse": 52,
+        "temperature": 36.7,
+        "weight": 82,
+        "height": 174,
+        "bmi": 27.1,
+        "oxygenSaturation": 96,
+        "recordedBy": {
+          "$oid": "64a1b2c3d4e5f6a7b8c9d005"
+        }
+      },
+      "prescriptions": [
+        {
+          "medicine": "Furosemide",
+          "dosage": "40mg",
+          "frequency": "Once daily in the morning",
+          "duration": "30 days",
+          "instructions": "Take in the morning with breakfast. Monitor urine output. Avoid evening doses."
+        },
+        {
+          "medicine": "Amlodipine",
+          "dosage": "5mg",
+          "frequency": "Once daily",
+          "duration": "30 days",
+          "instructions": "Take in the morning after food"
+        }
+      ],
+      "labTestsRequested": [
+        {
+          "$oid": "64a1b2c3d4e5f6a7b8c9b006"
+        }
+      ],
+      "doctorNotes": "ECG: sinus bradycardia at 52 bpm. 2D echo requested — dilated left ventricle suspected. Renal function creatinine 1.4 mg/dL — CKD Stage 2. Furosemide started for oedema. Low potassium diet NOT recommended due to CKD. Nephrology referral being arranged.",
+      "followUpDate": {
+        "$date": "2025-06-06T00:00:00.000Z"
+      },
+      "createdAt": {
+        "$date": "2025-05-06T11:30:00.000Z"
+      },
+      "updatedAt": {
+        "$date": "2025-05-06T11:30:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9a008"
+      },
+      "recordId": "REC-2025-0008",
+      "patientId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9e008"
+      },
+      "appointmentId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9f008"
+      },
+      "doctorId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d002"
+      },
+      "visitDate": {
+        "$date": "2025-05-12T08:30:00.000Z"
+      },
+      "visitType": "OPD",
+      "chiefComplaint": "Severe bifrontal headache radiating to neck and vomiting — onset 48 hours ago",
+      "diagnosis": "Tension-Type Headache with Cervicogenic Component",
+      "symptoms": [
+        "Bifrontal headache",
+        "Nausea",
+        "Vomiting",
+        "Neck stiffness",
+        "Photophobia"
+      ],
+      "vitals": {
+        "bloodPressure": "118/76",
+        "pulse": 78,
+        "temperature": 37.1,
+        "weight": 52,
+        "height": 165,
+        "bmi": 19.1,
+        "oxygenSaturation": 99,
+        "recordedBy": {
+          "$oid": "64a1b2c3d4e5f6a7b8c9d005"
+        }
+      },
+      "prescriptions": [
+        {
+          "medicine": "Paracetamol",
+          "dosage": "1000mg",
+          "frequency": "Every 8 hours",
+          "duration": "3 days",
+          "instructions": "Take with food and plenty of water"
+        },
+        {
+          "medicine": "Metoclopramide",
+          "dosage": "10mg",
+          "frequency": "Three times daily before meals",
+          "duration": "3 days",
+          "instructions": "Take 30 minutes before meals. May cause drowsiness."
+        }
+      ],
+      "labTestsRequested": [],
+      "doctorNotes": "No papilloedema on fundoscopy. Neck stiffness resolved on examination — Kernig and Brudzinski negative. Likely tension headache with poor posture contribution. CT head not indicated at this stage. Advised ergonomic assessment, hydration, screen breaks. Return if headache worsens or neurological symptoms develop.",
+      "followUpDate": {
+        "$date": "2025-05-19T00:00:00.000Z"
+      },
+      "createdAt": {
+        "$date": "2025-05-12T09:30:00.000Z"
+      },
+      "updatedAt": {
+        "$date": "2025-05-12T09:30:00.000Z"
+      }
+    }
+  ],
+  "labreports": [
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9b001"
+      },
+      "reportId": "LAB-2025-0001",
+      "patientId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9e001"
+      },
+      "medicalRecordId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9a001"
+      },
+      "requestedBy": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d002"
+      },
+      "uploadedBy": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d007"
+      },
+      "testName": "Renal Function & Lipid Panel",
+      "testCategory": "Biochemistry",
+      "status": "completed",
+      "requestedDate": {
+        "$date": "2025-03-05T09:15:00.000Z"
+      },
+      "completedDate": {
+        "$date": "2025-03-05T15:30:00.000Z"
+      },
+      "results": [
+        {
+          "parameter": "Serum Creatinine",
+          "value": "1.1",
+          "unit": "mg/dL",
+          "referenceRange": "0.7–1.2",
+          "status": "normal"
+        },
+        {
+          "parameter": "Blood Urea Nitrogen",
+          "value": "18",
+          "unit": "mg/dL",
+          "referenceRange": "7–25",
+          "status": "normal"
+        },
+        {
+          "parameter": "eGFR",
+          "value": "74",
+          "unit": "mL/min/1.73m²",
+          "referenceRange": ">60",
+          "status": "normal"
+        },
+        {
+          "parameter": "Total Cholesterol",
+          "value": "5.8",
+          "unit": "mmol/L",
+          "referenceRange": "<5.2",
+          "status": "high"
+        },
+        {
+          "parameter": "LDL Cholesterol",
+          "value": "3.9",
+          "unit": "mmol/L",
+          "referenceRange": "<3.4",
+          "status": "high"
+        },
+        {
+          "parameter": "HDL Cholesterol",
+          "value": "1.1",
+          "unit": "mmol/L",
+          "referenceRange": ">1.0",
+          "status": "normal"
+        },
+        {
+          "parameter": "Triglycerides",
+          "value": "2.1",
+          "unit": "mmol/L",
+          "referenceRange": "<1.7",
+          "status": "high"
+        },
+        {
+          "parameter": "Serum Sodium",
+          "value": "139",
+          "unit": "mEq/L",
+          "referenceRange": "136–145",
+          "status": "normal"
+        },
+        {
+          "parameter": "Serum Potassium",
+          "value": "4.2",
+          "unit": "mEq/L",
+          "referenceRange": "3.5–5.0",
+          "status": "normal"
+        }
+      ],
+      "reportFileUrl": "/uploads/lab/LAB-2025-0001.pdf",
+      "notes": "Dyslipidaemia noted — elevated LDL and triglycerides. Renal function preserved. Review statin therapy.",
+      "createdAt": {
+        "$date": "2025-03-05T15:30:00.000Z"
+      },
+      "updatedAt": {
+        "$date": "2025-03-05T15:30:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9b002"
+      },
+      "reportId": "LAB-2025-0002",
+      "patientId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9e002"
+      },
+      "medicalRecordId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9a002"
+      },
+      "requestedBy": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d002"
+      },
+      "uploadedBy": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d007"
+      },
+      "testName": "HbA1c & Fasting Glucose",
+      "testCategory": "Biochemistry",
+      "status": "completed",
+      "requestedDate": {
+        "$date": "2025-03-10T10:30:00.000Z"
+      },
+      "completedDate": {
+        "$date": "2025-03-10T16:00:00.000Z"
+      },
+      "results": [
+        {
+          "parameter": "HbA1c",
+          "value": "8.4",
+          "unit": "%",
+          "referenceRange": "<5.7 (normal), 5.7–6.4 (prediabetic), >6.5 (diabetic)",
+          "status": "high"
+        },
+        {
+          "parameter": "Fasting Glucose",
+          "value": "172",
+          "unit": "mg/dL",
+          "referenceRange": "70–99",
+          "status": "high"
+        },
+        {
+          "parameter": "Postprandial Glucose",
+          "value": "248",
+          "unit": "mg/dL",
+          "referenceRange": "<140",
+          "status": "high"
+        }
+      ],
+      "reportFileUrl": "/uploads/lab/LAB-2025-0002.pdf",
+      "notes": "Significantly elevated HbA1c indicates poor glycaemic control over the past 3 months. Intensification of antidiabetic therapy warranted.",
+      "createdAt": {
+        "$date": "2025-03-10T16:00:00.000Z"
+      },
+      "updatedAt": {
+        "$date": "2025-03-10T16:00:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9b003"
+      },
+      "reportId": "LAB-2025-0003",
+      "patientId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9e002"
+      },
+      "medicalRecordId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9a002"
+      },
+      "requestedBy": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d002"
+      },
+      "uploadedBy": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d007"
+      },
+      "testName": "Thyroid Function Test (TFT)",
+      "testCategory": "Endocrinology",
+      "status": "completed",
+      "requestedDate": {
+        "$date": "2025-03-10T10:30:00.000Z"
+      },
+      "completedDate": {
+        "$date": "2025-03-11T12:00:00.000Z"
+      },
+      "results": [
+        {
+          "parameter": "TSH",
+          "value": "0.18",
+          "unit": "mIU/L",
+          "referenceRange": "0.4–4.0",
+          "status": "low"
+        },
+        {
+          "parameter": "Free T4",
+          "value": "18.2",
+          "unit": "pmol/L",
+          "referenceRange": "9.0–19.0",
+          "status": "normal"
+        },
+        {
+          "parameter": "Free T3",
+          "value": "6.8",
+          "unit": "pmol/L",
+          "referenceRange": "2.6–5.7",
+          "status": "high"
+        }
+      ],
+      "reportFileUrl": "/uploads/lab/LAB-2025-0003.pdf",
+      "notes": "Suppressed TSH with elevated Free T3 is consistent with subclinical to overt hyperthyroidism. Endocrinology referral recommended.",
+      "createdAt": {
+        "$date": "2025-03-11T12:00:00.000Z"
+      },
+      "updatedAt": {
+        "$date": "2025-03-11T12:00:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9b004"
+      },
+      "reportId": "LAB-2025-0004",
+      "patientId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9e003"
+      },
+      "medicalRecordId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9a003"
+      },
+      "requestedBy": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d002"
+      },
+      "uploadedBy": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d007"
+      },
+      "testName": "Chest X-Ray (PA View)",
+      "testCategory": "Radiology",
+      "status": "completed",
+      "requestedDate": {
+        "$date": "2025-03-18T11:00:00.000Z"
+      },
+      "completedDate": {
+        "$date": "2025-03-18T14:00:00.000Z"
+      },
+      "results": [
+        {
+          "parameter": "Lung Fields",
+          "value": "Hyperinflated lung fields bilaterally with flattened diaphragm",
+          "unit": "",
+          "referenceRange": "Clear lung fields",
+          "status": "abnormal"
+        },
+        {
+          "parameter": "Cardiac Silhouette",
+          "value": "Normal cardiac size. Cardiothoracic ratio 0.48",
+          "unit": "",
+          "referenceRange": "<0.5",
+          "status": "normal"
+        },
+        {
+          "parameter": "Bony Thorax",
+          "value": "No rib fractures. Mild kyphosis noted.",
+          "unit": "",
+          "referenceRange": "Intact",
+          "status": "normal"
+        },
+        {
+          "parameter": "Impression",
+          "value": "Features consistent with COPD. No consolidation or pneumothorax identified.",
+          "unit": "",
+          "referenceRange": "Normal",
+          "status": "abnormal"
+        }
+      ],
+      "reportFileUrl": "/uploads/lab/LAB-2025-0004.pdf",
+      "notes": "Radiological evidence of COPD with hyperinflation. No acute pneumonia. No pneumothorax.",
+      "createdAt": {
+        "$date": "2025-03-18T14:00:00.000Z"
+      },
+      "updatedAt": {
+        "$date": "2025-03-18T14:00:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9b005"
+      },
+      "reportId": "LAB-2025-0005",
+      "patientId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9e005"
+      },
+      "medicalRecordId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9a005"
+      },
+      "requestedBy": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d002"
+      },
+      "uploadedBy": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d007"
+      },
+      "testName": "Full Lipid Profile & HbA1c",
+      "testCategory": "Biochemistry",
+      "status": "completed",
+      "requestedDate": {
+        "$date": "2025-04-10T10:00:00.000Z"
+      },
+      "completedDate": {
+        "$date": "2025-04-10T16:30:00.000Z"
+      },
+      "results": [
+        {
+          "parameter": "HbA1c",
+          "value": "7.9",
+          "unit": "%",
+          "referenceRange": "<7.0 (controlled diabetic)",
+          "status": "high"
+        },
+        {
+          "parameter": "Fasting Glucose",
+          "value": "162",
+          "unit": "mg/dL",
+          "referenceRange": "70–99",
+          "status": "high"
+        },
+        {
+          "parameter": "Total Cholesterol",
+          "value": "6.2",
+          "unit": "mmol/L",
+          "referenceRange": "<5.2",
+          "status": "high"
+        },
+        {
+          "parameter": "LDL Cholesterol",
+          "value": "4.1",
+          "unit": "mmol/L",
+          "referenceRange": "<3.4",
+          "status": "high"
+        },
+        {
+          "parameter": "HDL Cholesterol",
+          "value": "0.9",
+          "unit": "mmol/L",
+          "referenceRange": ">1.0",
+          "status": "low"
+        },
+        {
+          "parameter": "Triglycerides",
+          "value": "2.8",
+          "unit": "mmol/L",
+          "referenceRange": "<1.7",
+          "status": "high"
+        }
+      ],
+      "reportFileUrl": "/uploads/lab/LAB-2025-0005.pdf",
+      "notes": "Combined dysglycaemia and atherogenic dyslipidaemia. High cardiovascular risk. Initiation of statin therapy confirmed.",
+      "createdAt": {
+        "$date": "2025-04-10T16:30:00.000Z"
+      },
+      "updatedAt": {
+        "$date": "2025-04-10T16:30:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9b006"
+      },
+      "reportId": "LAB-2025-0006",
+      "patientId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9e007"
+      },
+      "medicalRecordId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9a007"
+      },
+      "requestedBy": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d008"
+      },
+      "uploadedBy": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d007"
+      },
+      "testName": "Renal Function Test & Electrolytes",
+      "testCategory": "Biochemistry",
+      "status": "completed",
+      "requestedDate": {
+        "$date": "2025-05-06T11:30:00.000Z"
+      },
+      "completedDate": {
+        "$date": "2025-05-06T16:00:00.000Z"
+      },
+      "results": [
+        {
+          "parameter": "Serum Creatinine",
+          "value": "1.4",
+          "unit": "mg/dL",
+          "referenceRange": "0.7–1.2",
+          "status": "high"
+        },
+        {
+          "parameter": "Blood Urea Nitrogen",
+          "value": "28",
+          "unit": "mg/dL",
+          "referenceRange": "7–25",
+          "status": "high"
+        },
+        {
+          "parameter": "eGFR",
+          "value": "52",
+          "unit": "mL/min/1.73m²",
+          "referenceRange": ">60",
+          "status": "low"
+        },
+        {
+          "parameter": "Serum Sodium",
+          "value": "138",
+          "unit": "mEq/L",
+          "referenceRange": "136–145",
+          "status": "normal"
+        },
+        {
+          "parameter": "Serum Potassium",
+          "value": "5.1",
+          "unit": "mEq/L",
+          "referenceRange": "3.5–5.0",
+          "status": "high"
+        },
+        {
+          "parameter": "Serum Chloride",
+          "value": "102",
+          "unit": "mEq/L",
+          "referenceRange": "98–107",
+          "status": "normal"
+        }
+      ],
+      "reportFileUrl": "/uploads/lab/LAB-2025-0006.pdf",
+      "notes": "Creatinine elevated and eGFR reduced to 52 — consistent with CKD Stage 2. Mildly elevated potassium — dietary restriction advised. Nephrology referral arranged.",
+      "createdAt": {
+        "$date": "2025-05-06T16:00:00.000Z"
+      },
+      "updatedAt": {
+        "$date": "2025-05-06T16:00:00.000Z"
+      }
+    }
+  ],
+  "payments": [
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9c001"
+      },
+      "paymentId": "PAY-2025-0001",
+      "patientId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9e001"
+      },
+      "appointmentId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9f001"
+      },
+      "processedBy": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d006"
+      },
+      "items": [
+        {
+          "description": "OPD Consultation Fee — Dr. Chaminda Rajapaksha",
+          "amount": 1500
+        },
+        {
+          "description": "Renal Function & Lipid Panel",
+          "amount": 2200
+        }
+      ],
+      "subtotal": 3700,
+      "discount": 0,
+      "tax": 0,
+      "totalAmount": 3700,
+      "paymentMethod": "cash",
+      "paymentStatus": "paid",
+      "transactionId": null,
+      "receiptNumber": "RCP-2025-0001",
+      "paidAt": {
+        "$date": "2025-03-05T09:45:00.000Z"
+      },
+      "createdAt": {
+        "$date": "2025-03-05T09:45:00.000Z"
+      },
+      "updatedAt": {
+        "$date": "2025-03-05T09:45:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9c002"
+      },
+      "paymentId": "PAY-2025-0002",
+      "patientId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9e002"
+      },
+      "appointmentId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9f002"
+      },
+      "processedBy": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d006"
+      },
+      "items": [
+        {
+          "description": "Channelized Consultation Fee — Dr. Chaminda Rajapaksha",
+          "amount": 2500
+        },
+        {
+          "description": "HbA1c & Fasting Glucose",
+          "amount": 1800
+        },
+        {
+          "description": "Thyroid Function Test (TFT)",
+          "amount": 2400
+        }
+      ],
+      "subtotal": 6700,
+      "discount": 500,
+      "tax": 0,
+      "totalAmount": 6200,
+      "paymentMethod": "card",
+      "paymentStatus": "paid",
+      "transactionId": "TXN-20250310-00089",
+      "receiptNumber": "RCP-2025-0002",
+      "paidAt": {
+        "$date": "2025-03-10T11:00:00.000Z"
+      },
+      "createdAt": {
+        "$date": "2025-03-10T11:00:00.000Z"
+      },
+      "updatedAt": {
+        "$date": "2025-03-10T11:00:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9c003"
+      },
+      "paymentId": "PAY-2025-0003",
+      "patientId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9e003"
+      },
+      "appointmentId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9f003"
+      },
+      "processedBy": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d006"
+      },
+      "items": [
+        {
+          "description": "OPD Consultation Fee — Dr. Chaminda Rajapaksha",
+          "amount": 1500
+        },
+        {
+          "description": "Chest X-Ray (PA View)",
+          "amount": 2800
+        }
+      ],
+      "subtotal": 4300,
+      "discount": 0,
+      "tax": 0,
+      "totalAmount": 4300,
+      "paymentMethod": "cash",
+      "paymentStatus": "paid",
+      "transactionId": null,
+      "receiptNumber": "RCP-2025-0003",
+      "paidAt": {
+        "$date": "2025-03-18T11:30:00.000Z"
+      },
+      "createdAt": {
+        "$date": "2025-03-18T11:30:00.000Z"
+      },
+      "updatedAt": {
+        "$date": "2025-03-18T11:30:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9c004"
+      },
+      "paymentId": "PAY-2025-0004",
+      "patientId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9e004"
+      },
+      "appointmentId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9f004"
+      },
+      "processedBy": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d006"
+      },
+      "items": [
+        {
+          "description": "OPD Consultation Fee — Dr. Chaminda Rajapaksha",
+          "amount": 1500
+        }
+      ],
+      "subtotal": 1500,
+      "discount": 0,
+      "tax": 0,
+      "totalAmount": 1500,
+      "paymentMethod": "cash",
+      "paymentStatus": "paid",
+      "transactionId": null,
+      "receiptNumber": "RCP-2025-0004",
+      "paidAt": {
+        "$date": "2025-04-02T12:30:00.000Z"
+      },
+      "createdAt": {
+        "$date": "2025-04-02T12:30:00.000Z"
+      },
+      "updatedAt": {
+        "$date": "2025-04-02T12:30:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9c005"
+      },
+      "paymentId": "PAY-2025-0005",
+      "patientId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9e005"
+      },
+      "appointmentId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9f005"
+      },
+      "processedBy": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d006"
+      },
+      "items": [
+        {
+          "description": "Channelized Consultation Fee — Dr. Chaminda Rajapaksha",
+          "amount": 2500
+        },
+        {
+          "description": "Full Lipid Profile & HbA1c",
+          "amount": 2900
+        }
+      ],
+      "subtotal": 5400,
+      "discount": 400,
+      "tax": 0,
+      "totalAmount": 5000,
+      "paymentMethod": "card",
+      "paymentStatus": "paid",
+      "transactionId": "TXN-20250410-00145",
+      "receiptNumber": "RCP-2025-0005",
+      "paidAt": {
+        "$date": "2025-04-10T10:30:00.000Z"
+      },
+      "createdAt": {
+        "$date": "2025-04-10T10:30:00.000Z"
+      },
+      "updatedAt": {
+        "$date": "2025-04-10T10:30:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9c006"
+      },
+      "paymentId": "PAY-2025-0006",
+      "patientId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9e006"
+      },
+      "appointmentId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9f006"
+      },
+      "processedBy": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d006"
+      },
+      "items": [
+        {
+          "description": "OPD Consultation Fee — Dr. Chaminda Rajapaksha",
+          "amount": 1500
+        }
+      ],
+      "subtotal": 1500,
+      "discount": 0,
+      "tax": 0,
+      "totalAmount": 1500,
+      "paymentMethod": "cash",
+      "paymentStatus": "paid",
+      "transactionId": null,
+      "receiptNumber": "RCP-2025-0006",
+      "paidAt": {
+        "$date": "2025-04-22T09:30:00.000Z"
+      },
+      "createdAt": {
+        "$date": "2025-04-22T09:30:00.000Z"
+      },
+      "updatedAt": {
+        "$date": "2025-04-22T09:30:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9c007"
+      },
+      "paymentId": "PAY-2025-0007",
+      "patientId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9e007"
+      },
+      "appointmentId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9f007"
+      },
+      "processedBy": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d006"
+      },
+      "items": [
+        {
+          "description": "Specialist Channelized Consultation Fee — Dr. Priyanka Seneviratne (Cardiologist)",
+          "amount": 4000
+        },
+        {
+          "description": "Renal Function Test & Electrolytes",
+          "amount": 2600
+        },
+        {
+          "description": "12-Lead ECG",
+          "amount": 1200
+        }
+      ],
+      "subtotal": 7800,
+      "discount": 800,
+      "tax": 0,
+      "totalAmount": 7000,
+      "paymentMethod": "card",
+      "paymentStatus": "paid",
+      "transactionId": "TXN-20250506-00198",
+      "receiptNumber": "RCP-2025-0007",
+      "paidAt": {
+        "$date": "2025-05-06T12:00:00.000Z"
+      },
+      "createdAt": {
+        "$date": "2025-05-06T12:00:00.000Z"
+      },
+      "updatedAt": {
+        "$date": "2025-05-06T12:00:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9c008"
+      },
+      "paymentId": "PAY-2025-0008",
+      "patientId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9e008"
+      },
+      "appointmentId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9f008"
+      },
+      "processedBy": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d006"
+      },
+      "items": [
+        {
+          "description": "OPD Consultation Fee — Dr. Chaminda Rajapaksha",
+          "amount": 1500
+        }
+      ],
+      "subtotal": 1500,
+      "discount": 0,
+      "tax": 0,
+      "totalAmount": 1500,
+      "paymentMethod": "cash",
+      "paymentStatus": "paid",
+      "transactionId": null,
+      "receiptNumber": "RCP-2025-0008",
+      "paidAt": {
+        "$date": "2025-05-12T10:00:00.000Z"
+      },
+      "createdAt": {
+        "$date": "2025-05-12T10:00:00.000Z"
+      },
+      "updatedAt": {
+        "$date": "2025-05-12T10:00:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9c009"
+      },
+      "paymentId": "PAY-2025-0009",
+      "patientId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9e001"
+      },
+      "appointmentId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9f009"
+      },
+      "processedBy": null,
+      "items": [
+        {
+          "description": "OPD Consultation Fee — Dr. Chaminda Rajapaksha",
+          "amount": 1500
+        }
+      ],
+      "subtotal": 1500,
+      "discount": 0,
+      "tax": 0,
+      "totalAmount": 1500,
+      "paymentMethod": null,
+      "paymentStatus": "pending",
+      "transactionId": null,
+      "receiptNumber": null,
+      "paidAt": null,
+      "createdAt": {
+        "$date": "2025-05-14T10:00:00.000Z"
+      },
+      "updatedAt": {
+        "$date": "2025-05-14T10:00:00.000Z"
+      }
+    }
+  ],
+  "feedbacks": [
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d101"
+      },
+      "feedbackId": "FBK-2025-0001",
+      "patientId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9e001"
+      },
+      "appointmentId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9f001"
+      },
+      "doctorId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d002"
+      },
+      "overallRating": 5,
+      "doctorRating": 5,
+      "serviceRating": 5,
+      "waitTimeRating": 4,
+      "comment": "Dr. Chaminda was very thorough and took the time to explain my blood pressure medications and lifestyle changes in simple Sinhala. The nurses were friendly and efficient. Minor wait at the reception, but overall a very satisfying experience. Highly recommended.",
+      "isPublished": true,
+      "publishedAsTestimonial": true,
+      "createdAt": {
+        "$date": "2025-03-05T20:00:00.000Z"
+      },
+      "updatedAt": {
+        "$date": "2025-03-06T08:30:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d102"
+      },
+      "feedbackId": "FBK-2025-0002",
+      "patientId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9e002"
+      },
+      "appointmentId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9f002"
+      },
+      "doctorId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d002"
+      },
+      "overallRating": 4,
+      "doctorRating": 5,
+      "serviceRating": 4,
+      "waitTimeRating": 3,
+      "comment": "The doctor was very knowledgeable and explained my thyroid issue clearly. I felt reassured after the consultation. The lab results came quickly. Waiting room can get crowded during peak hours — some air conditioning improvement would be welcome.",
+      "isPublished": true,
+      "publishedAsTestimonial": false,
+      "createdAt": {
+        "$date": "2025-03-10T21:00:00.000Z"
+      },
+      "updatedAt": {
+        "$date": "2025-03-10T21:00:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d103"
+      },
+      "feedbackId": "FBK-2025-0003",
+      "patientId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9e003"
+      },
+      "appointmentId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9f003"
+      },
+      "doctorId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d002"
+      },
+      "overallRating": 4,
+      "doctorRating": 5,
+      "serviceRating": 4,
+      "waitTimeRating": 3,
+      "comment": "I came in having trouble breathing and was seen within 20 minutes. The doctor explained exactly what was happening with my lungs. Chest X-ray was done on the same day. My only concern is parking — it can be difficult during morning hours.",
+      "isPublished": true,
+      "publishedAsTestimonial": false,
+      "createdAt": {
+        "$date": "2025-03-18T19:00:00.000Z"
+      },
+      "updatedAt": {
+        "$date": "2025-03-18T19:00:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d104"
+      },
+      "feedbackId": "FBK-2025-0004",
+      "patientId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9e004"
+      },
+      "appointmentId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9f004"
+      },
+      "doctorId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d002"
+      },
+      "overallRating": 5,
+      "doctorRating": 5,
+      "serviceRating": 5,
+      "waitTimeRating": 5,
+      "comment": "The nurse checked my vitals promptly and the doctor reviewed my inhaler technique carefully — no one had done that before. My asthma has been much better since the treatment was adjusted. The written action plan they gave me has been a lifesaver!",
+      "isPublished": true,
+      "publishedAsTestimonial": true,
+      "createdAt": {
+        "$date": "2025-04-02T18:00:00.000Z"
+      },
+      "updatedAt": {
+        "$date": "2025-04-03T09:00:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d105"
+      },
+      "feedbackId": "FBK-2025-0005",
+      "patientId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9e005"
+      },
+      "appointmentId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9f005"
+      },
+      "doctorId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d002"
+      },
+      "overallRating": 4,
+      "doctorRating": 4,
+      "serviceRating": 4,
+      "waitTimeRating": 4,
+      "comment": "Very professional service. Doctor explained my cholesterol and diabetes connection in detail and referred me to a dietician as well. Would have liked the cashier counter to be faster, but the overall experience was great.",
+      "isPublished": true,
+      "publishedAsTestimonial": false,
+      "createdAt": {
+        "$date": "2025-04-10T20:00:00.000Z"
+      },
+      "updatedAt": {
+        "$date": "2025-04-10T20:00:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d106"
+      },
+      "feedbackId": "FBK-2025-0006",
+      "patientId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9e007"
+      },
+      "appointmentId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9f007"
+      },
+      "doctorId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d008"
+      },
+      "overallRating": 5,
+      "doctorRating": 5,
+      "serviceRating": 5,
+      "waitTimeRating": 4,
+      "comment": "Dr. Priyanka was exceptional — she took a full history, ordered an ECG immediately and explained the findings clearly. Her patience in answering all my questions about my kidney condition was very reassuring. The cardiology unit is well equipped.",
+      "isPublished": true,
+      "publishedAsTestimonial": true,
+      "createdAt": {
+        "$date": "2025-05-06T19:30:00.000Z"
+      },
+      "updatedAt": {
+        "$date": "2025-05-07T08:00:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d107"
+      },
+      "feedbackId": "FBK-2025-0007",
+      "patientId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9e008"
+      },
+      "appointmentId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9f008"
+      },
+      "doctorId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d002"
+      },
+      "overallRating": 3,
+      "doctorRating": 4,
+      "serviceRating": 3,
+      "waitTimeRating": 2,
+      "comment": "The doctor was good and thorough. However I had to wait almost 45 minutes past my appointment time. The air conditioning in the waiting area was not working properly and it was very uncomfortable. Please improve the waiting experience.",
+      "isPublished": false,
+      "publishedAsTestimonial": false,
+      "createdAt": {
+        "$date": "2025-05-12T18:00:00.000Z"
+      },
+      "updatedAt": {
+        "$date": "2025-05-12T18:00:00.000Z"
+      }
+    }
+  ],
+  "inventory": [
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d201"
+      },
+      "itemId": "INV-001",
+      "name": "Amlodipine 10mg",
+      "category": "Antihypertensive",
+      "type": "Tablet",
+      "manufacturer": "CeylonPharma Ltd",
+      "batchNumber": "CPL-AMLO-2501",
+      "expiryDate": {
+        "$date": "2027-06-01T00:00:00.000Z"
+      },
+      "stockQuantity": 650,
+      "reorderLevel": 150,
+      "unitPrice": 14.00,
+      "unit": "tablet",
+      "isActive": true,
+      "addedBy": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d001"
+      },
+      "createdAt": {
+        "$date": "2024-11-01T00:00:00.000Z"
+      },
+      "updatedAt": {
+        "$date": "2025-04-01T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d202"
+      },
+      "itemId": "INV-002",
+      "name": "Telmisartan 40mg",
+      "category": "Antihypertensive",
+      "type": "Tablet",
+      "manufacturer": "LankaMed Pharmaceuticals",
+      "batchNumber": "LMP-TELM-2502",
+      "expiryDate": {
+        "$date": "2027-02-01T00:00:00.000Z"
+      },
+      "stockQuantity": 420,
+      "reorderLevel": 100,
+      "unitPrice": 18.50,
+      "unit": "tablet",
+      "isActive": true,
+      "addedBy": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d001"
+      },
+      "createdAt": {
+        "$date": "2024-11-01T00:00:00.000Z"
+      },
+      "updatedAt": {
+        "$date": "2025-04-01T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d203"
+      },
+      "itemId": "INV-003",
+      "name": "Metformin 500mg",
+      "category": "Antidiabetic",
+      "type": "Tablet",
+      "manufacturer": "Hemas Pharmaceuticals",
+      "batchNumber": "HEM-MET-2503",
+      "expiryDate": {
+        "$date": "2026-10-01T00:00:00.000Z"
+      },
+      "stockQuantity": 980,
+      "reorderLevel": 200,
+      "unitPrice": 7.50,
+      "unit": "tablet",
+      "isActive": true,
+      "addedBy": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d001"
+      },
+      "createdAt": {
+        "$date": "2024-11-01T00:00:00.000Z"
+      },
+      "updatedAt": {
+        "$date": "2025-04-01T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d204"
+      },
+      "itemId": "INV-004",
+      "name": "Glimepiride 2mg",
+      "category": "Antidiabetic",
+      "type": "Tablet",
+      "manufacturer": "CeylonPharma Ltd",
+      "batchNumber": "CPL-GLIM-2504",
+      "expiryDate": {
+        "$date": "2027-01-01T00:00:00.000Z"
+      },
+      "stockQuantity": 310,
+      "reorderLevel": 80,
+      "unitPrice": 22.00,
+      "unit": "tablet",
+      "isActive": true,
+      "addedBy": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d001"
+      },
+      "createdAt": {
+        "$date": "2024-11-01T00:00:00.000Z"
+      },
+      "updatedAt": {
+        "$date": "2025-04-01T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d205"
+      },
+      "itemId": "INV-005",
+      "name": "Atorvastatin 20mg",
+      "category": "Lipid-Lowering Agent",
+      "type": "Tablet",
+      "manufacturer": "LankaMed Pharmaceuticals",
+      "batchNumber": "LMP-ATOR-2505",
+      "expiryDate": {
+        "$date": "2027-04-01T00:00:00.000Z"
+      },
+      "stockQuantity": 540,
+      "reorderLevel": 120,
+      "unitPrice": 19.00,
+      "unit": "tablet",
+      "isActive": true,
+      "addedBy": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d001"
+      },
+      "createdAt": {
+        "$date": "2024-11-01T00:00:00.000Z"
+      },
+      "updatedAt": {
+        "$date": "2025-04-01T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d206"
+      },
+      "itemId": "INV-006",
+      "name": "Aspirin 75mg",
+      "category": "Antiplatelet",
+      "type": "Tablet",
+      "manufacturer": "Hemas Pharmaceuticals",
+      "batchNumber": "HEM-ASP-2506",
+      "expiryDate": {
+        "$date": "2027-08-01T00:00:00.000Z"
+      },
+      "stockQuantity": 1200,
+      "reorderLevel": 250,
+      "unitPrice": 3.00,
+      "unit": "tablet",
+      "isActive": true,
+      "addedBy": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d001"
+      },
+      "createdAt": {
+        "$date": "2024-11-01T00:00:00.000Z"
+      },
+      "updatedAt": {
+        "$date": "2025-04-01T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d207"
+      },
+      "itemId": "INV-007",
+      "name": "Salbutamol Inhaler 100mcg",
+      "category": "Bronchodilator",
+      "type": "Inhaler",
+      "manufacturer": "MediLanka (GSK Partner)",
+      "batchNumber": "MLK-SAL-2507",
+      "expiryDate": {
+        "$date": "2026-11-01T00:00:00.000Z"
+      },
+      "stockQuantity": 38,
+      "reorderLevel": 50,
+      "unitPrice": 480.00,
+      "unit": "inhaler",
+      "isActive": true,
+      "addedBy": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d001"
+      },
+      "createdAt": {
+        "$date": "2024-11-01T00:00:00.000Z"
+      },
+      "updatedAt": {
+        "$date": "2025-05-01T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d208"
+      },
+      "itemId": "INV-008",
+      "name": "Budesonide/Formoterol 160/4.5mcg Inhaler",
+      "category": "Inhaled Corticosteroid / LABA",
+      "type": "Inhaler",
+      "manufacturer": "MediLanka (AstraZeneca Partner)",
+      "batchNumber": "MLK-BUD-2508",
+      "expiryDate": {
+        "$date": "2026-08-01T00:00:00.000Z"
+      },
+      "stockQuantity": 22,
+      "reorderLevel": 30,
+      "unitPrice": 1850.00,
+      "unit": "inhaler",
+      "isActive": true,
+      "addedBy": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d001"
+      },
+      "createdAt": {
+        "$date": "2024-11-01T00:00:00.000Z"
+      },
+      "updatedAt": {
+        "$date": "2025-05-01T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d209"
+      },
+      "itemId": "INV-009",
+      "name": "Montelukast 10mg",
+      "category": "Leukotriene Receptor Antagonist",
+      "type": "Tablet",
+      "manufacturer": "CeylonPharma Ltd",
+      "batchNumber": "CPL-MONT-2509",
+      "expiryDate": {
+        "$date": "2027-03-01T00:00:00.000Z"
+      },
+      "stockQuantity": 280,
+      "reorderLevel": 60,
+      "unitPrice": 35.00,
+      "unit": "tablet",
+      "isActive": true,
+      "addedBy": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d001"
+      },
+      "createdAt": {
+        "$date": "2024-11-01T00:00:00.000Z"
+      },
+      "updatedAt": {
+        "$date": "2025-05-01T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d210"
+      },
+      "itemId": "INV-010",
+      "name": "Paracetamol 500mg",
+      "category": "Analgesic / Antipyretic",
+      "type": "Tablet",
+      "manufacturer": "Hemas Pharmaceuticals",
+      "batchNumber": "HEM-PCM-2510",
+      "expiryDate": {
+        "$date": "2027-09-01T00:00:00.000Z"
+      },
+      "stockQuantity": 2400,
+      "reorderLevel": 400,
+      "unitPrice": 3.50,
+      "unit": "tablet",
+      "isActive": true,
+      "addedBy": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d001"
+      },
+      "createdAt": {
+        "$date": "2024-11-01T00:00:00.000Z"
+      },
+      "updatedAt": {
+        "$date": "2025-05-01T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d211"
+      },
+      "itemId": "INV-011",
+      "name": "Amoxicillin 500mg",
+      "category": "Antibiotic",
+      "type": "Capsule",
+      "manufacturer": "LankaMed Pharmaceuticals",
+      "batchNumber": "LMP-AMX-2511",
+      "expiryDate": {
+        "$date": "2026-07-01T00:00:00.000Z"
+      },
+      "stockQuantity": 760,
+      "reorderLevel": 150,
+      "unitPrice": 12.00,
+      "unit": "capsule",
+      "isActive": true,
+      "addedBy": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d001"
+      },
+      "createdAt": {
+        "$date": "2024-11-01T00:00:00.000Z"
+      },
+      "updatedAt": {
+        "$date": "2025-05-01T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d212"
+      },
+      "itemId": "INV-012",
+      "name": "Furosemide 40mg",
+      "category": "Loop Diuretic",
+      "type": "Tablet",
+      "manufacturer": "CeylonPharma Ltd",
+      "batchNumber": "CPL-FUR-2512",
+      "expiryDate": {
+        "$date": "2027-05-01T00:00:00.000Z"
+      },
+      "stockQuantity": 95,
+      "reorderLevel": 100,
+      "unitPrice": 9.50,
+      "unit": "tablet",
+      "isActive": true,
+      "addedBy": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d001"
+      },
+      "createdAt": {
+        "$date": "2024-11-01T00:00:00.000Z"
+      },
+      "updatedAt": {
+        "$date": "2025-05-01T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d213"
+      },
+      "itemId": "INV-013",
+      "name": "Prednisolone 5mg",
+      "category": "Corticosteroid",
+      "type": "Tablet",
+      "manufacturer": "Hemas Pharmaceuticals",
+      "batchNumber": "HEM-PRED-2513",
+      "expiryDate": {
+        "$date": "2026-12-01T00:00:00.000Z"
+      },
+      "stockQuantity": 430,
+      "reorderLevel": 100,
+      "unitPrice": 6.00,
+      "unit": "tablet",
+      "isActive": true,
+      "addedBy": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d001"
+      },
+      "createdAt": {
+        "$date": "2024-11-01T00:00:00.000Z"
+      },
+      "updatedAt": {
+        "$date": "2025-05-01T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d214"
+      },
+      "itemId": "INV-014",
+      "name": "Metoclopramide 10mg",
+      "category": "Antiemetic",
+      "type": "Tablet",
+      "manufacturer": "LankaMed Pharmaceuticals",
+      "batchNumber": "LMP-MET-2514",
+      "expiryDate": {
+        "$date": "2027-07-01T00:00:00.000Z"
+      },
+      "stockQuantity": 360,
+      "reorderLevel": 80,
+      "unitPrice": 8.00,
+      "unit": "tablet",
+      "isActive": true,
+      "addedBy": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d001"
+      },
+      "createdAt": {
+        "$date": "2024-11-01T00:00:00.000Z"
+      },
+      "updatedAt": {
+        "$date": "2025-05-01T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d215"
+      },
+      "itemId": "INV-015",
+      "name": "Ipratropium Bromide Inhaler 20mcg",
+      "category": "Anticholinergic Bronchodilator",
+      "type": "Inhaler",
+      "manufacturer": "MediLanka (Boehringer Partner)",
+      "batchNumber": "MLK-IPR-2515",
+      "expiryDate": {
+        "$date": "2026-05-01T00:00:00.000Z"
+      },
+      "stockQuantity": 18,
+      "reorderLevel": 25,
+      "unitPrice": 920.00,
+      "unit": "inhaler",
+      "isActive": true,
+      "addedBy": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d001"
+      },
+      "createdAt": {
+        "$date": "2024-11-01T00:00:00.000Z"
+      },
+      "updatedAt": {
+        "$date": "2025-05-01T00:00:00.000Z"
+      }
+    }
+  ],
+  "activitylogs": [
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d301"
+      },
+      "userId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d001"
+      },
+      "userRole": "admin",
+      "action": "USER_CREATED",
+      "module": "users",
+      "description": "Admin created receptionist account for Iresha Madushani Perera",
+      "targetId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d004"
+      },
+      "ipAddress": "192.168.10.1",
+      "createdAt": {
+        "$date": "2024-11-01T08:30:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d302"
+      },
+      "userId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d001"
+      },
+      "userRole": "admin",
+      "action": "USER_CREATED",
+      "module": "users",
+      "description": "Admin created nurse account for Hasini Kumari Weerasinghe",
+      "targetId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d005"
+      },
+      "ipAddress": "192.168.10.1",
+      "createdAt": {
+        "$date": "2024-11-01T08:45:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d303"
+      },
+      "userId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d004"
+      },
+      "userRole": "receptionist",
+      "action": "PATIENT_REGISTERED",
+      "module": "patients",
+      "description": "Receptionist registered new patient Nuwan Tharanga Dissanayake (MMC-2025-0001)",
+      "targetId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9e001"
+      },
+      "ipAddress": "192.168.10.12",
+      "createdAt": {
+        "$date": "2024-12-10T08:10:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d304"
+      },
+      "userId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d003"
+      },
+      "userRole": "patient",
+      "action": "APPOINTMENT_BOOKED",
+      "module": "appointments",
+      "description": "Patient Nuwan Dissanayake booked OPD appointment APT-2025-0001 with Dr. Chaminda Rajapaksha",
+      "targetId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9f001"
+      },
+      "ipAddress": "10.0.0.45",
+      "createdAt": {
+        "$date": "2025-03-03T14:00:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d305"
+      },
+      "userId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d005"
+      },
+      "userRole": "nurse",
+      "action": "VITALS_RECORDED",
+      "module": "medicalrecords",
+      "description": "Nurse recorded vitals for patient Nuwan Dissanayake — BP 148/94, Pulse 88, Temp 36.9°C",
+      "targetId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9a001"
+      },
+      "ipAddress": "192.168.10.22",
+      "createdAt": {
+        "$date": "2025-03-05T08:50:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d306"
+      },
+      "userId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d002"
+      },
+      "userRole": "doctor",
+      "action": "MEDICAL_RECORD_CREATED",
+      "module": "medicalrecords",
+      "description": "Dr. Chaminda Rajapaksha created medical record REC-2025-0001 for Nuwan Dissanayake — Diagnosis: Essential Hypertension Stage 2",
+      "targetId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9a001"
+      },
+      "ipAddress": "192.168.10.30",
+      "createdAt": {
+        "$date": "2025-03-05T09:15:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d307"
+      },
+      "userId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d006"
+      },
+      "userRole": "cashier",
+      "action": "PAYMENT_PROCESSED",
+      "module": "payments",
+      "description": "Cashier processed cash payment PAY-2025-0001 of LKR 3,700 for patient Nuwan Dissanayake",
+      "targetId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9c001"
+      },
+      "ipAddress": "192.168.10.18",
+      "createdAt": {
+        "$date": "2025-03-05T09:45:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d308"
+      },
+      "userId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d007"
+      },
+      "userRole": "labtech",
+      "action": "LAB_REPORT_UPLOADED",
+      "module": "labreports",
+      "description": "Lab technician uploaded Renal Function & Lipid Panel report LAB-2025-0001 for patient Nuwan Dissanayake",
+      "targetId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9b001"
+      },
+      "ipAddress": "192.168.10.35",
+      "createdAt": {
+        "$date": "2025-03-05T15:30:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d309"
+      },
+      "userId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d007"
+      },
+      "userRole": "labtech",
+      "action": "LAB_REPORT_UPLOADED",
+      "module": "labreports",
+      "description": "Lab technician uploaded HbA1c & Fasting Glucose report LAB-2025-0002 for patient Kamani Jayawardena",
+      "targetId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9b002"
+      },
+      "ipAddress": "192.168.10.35",
+      "createdAt": {
+        "$date": "2025-03-10T16:00:00.000Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d310"
+      },
+      "userId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d001"
+      },
+      "userRole": "admin",
+      "action": "INVENTORY_UPDATED",
+      "module": "inventory",
+      "description": "Admin updated stock quantity for Salbutamol Inhaler — restocked to 38 units",
+      "targetId": {
+        "$oid": "64a1b2c3d4e5f6a7b8c9d207"
+      },
+      "ipAddress": "192.168.10.1",
+      "createdAt": {
+        "$date": "2025-05-01T10:00:00.000Z"
+      }
+    }
+  ]
+}
